@@ -31,7 +31,7 @@ sites:
     port: 443
   - name: Showcase Gallery
     url: https://showcase.oca.ac.uk
-  - OCA Projects
+  - name: OCA Projects
     url: https://projects.oca.ac.uk
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
