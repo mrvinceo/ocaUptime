@@ -29,6 +29,10 @@ sites:
     check: "tcp-ping"
     url: https://filemaker.oca.ac.uk
     port: 443
+  - name: Showcase Gallery
+    url: https://showcase.oca.ac.uk
+  - OCA Projects
+    url: https://projects.oca.ac.uk
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
@@ -36,8 +40,8 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://www.oca.ac.uk/wp-content/themes/oca/images/oca-logo.png
   name: OCA Services Uptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "This is the OCA Services uptime and status page. Please check here to see the status of any college services if you're encountering disruption."
+  introMessage: "This status page uses the Open Source [upptime.js.org application](https://upptime.js.org)."
   navbar:
     - title: Status
       href: /
