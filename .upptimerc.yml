@@ -5,9 +5,9 @@ repo: ocaUptime # The name of this repository
 sites:
   - name: Google
     url: https://www.google.com
-  - name: OCA Learn
+  - name: OCA Learn (VLE)
     url: https://learn.oca.ac.uk
-  - name: OCA Spaces
+  - name: OCA Spaces (Blogs)
     url: https://spaces.oca.ac.uk
   - name: OCA Main Site
     url: https://www.oca.ac.uk
