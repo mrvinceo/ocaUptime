@@ -42,19 +42,19 @@
     "url": "https://spaces.oca.ac.uk",
     "icon": "https://favicons.githubusercontent.com/spaces.oca.ac.uk",
     "slug": "oca-spaces-blogs",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 733,
-    "timeDay": 463,
-    "timeWeek": 748,
-    "timeMonth": 733,
-    "timeYear": 733,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 729,
+    "timeDay": 525,
+    "timeWeek": 737,
+    "timeMonth": 729,
+    "timeYear": 729,
     "dailyMinutesDown": {
-      "2021-08-17": 0
+      "2021-08-17": 11
     }
   },
   {
@@ -226,19 +226,19 @@
     "url": "https://showcase.oca.ac.uk",
     "icon": "https://favicons.githubusercontent.com/showcase.oca.ac.uk",
     "slug": "showcase-gallery",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 716,
-    "timeDay": 394,
-    "timeWeek": 590,
-    "timeMonth": 716,
-    "timeYear": 716,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 710,
+    "timeDay": 454,
+    "timeWeek": 589,
+    "timeMonth": 710,
+    "timeYear": 710,
     "dailyMinutesDown": {
-      "2021-08-17": 0
+      "2021-08-17": 11
     }
   },
   {
