@@ -60,9 +60,9 @@
     "url": "https://www.oca.ac.uk",
     "icon": "https://favicons.githubusercontent.com/www.oca.ac.uk",
     "slug": "oca-main-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,7 +71,9 @@
     "timeWeek": 934,
     "timeMonth": 1282,
     "timeYear": 1191,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-03": 0
+    }
   },
   {
     "name": "Hacker News",
