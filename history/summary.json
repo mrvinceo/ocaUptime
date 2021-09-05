@@ -42,18 +42,20 @@
     "url": "https://spaces.oca.ac.uk",
     "icon": "https://favicons.githubusercontent.com/spaces.oca.ac.uk",
     "slug": "oca-spaces-blogs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 786,
-    "timeDay": 822,
-    "timeWeek": 1019,
-    "timeMonth": 807,
-    "timeYear": 786,
-    "dailyMinutesDown": {}
+    "time": 771,
+    "timeDay": 501,
+    "timeWeek": 914,
+    "timeMonth": 789,
+    "timeYear": 771,
+    "dailyMinutesDown": {
+      "2021-09-05": 0
+    }
   },
   {
     "name": "OCA Main Site",
@@ -224,18 +226,20 @@
     "url": "https://showcase.oca.ac.uk",
     "icon": "https://favicons.githubusercontent.com/showcase.oca.ac.uk",
     "slug": "showcase-gallery",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 682,
-    "timeDay": 715,
-    "timeWeek": 604,
-    "timeMonth": 632,
-    "timeYear": 682,
-    "dailyMinutesDown": {}
+    "time": 668,
+    "timeDay": 393,
+    "timeWeek": 537,
+    "timeMonth": 615,
+    "timeYear": 668,
+    "dailyMinutesDown": {
+      "2021-09-05": 0
+    }
   },
   {
     "name": "OCA Projects",
