@@ -30,7 +30,7 @@
     "uptimeYear": "99.93%",
     "time": 950,
     "timeDay": 911,
-    "timeWeek": 971,
+    "timeWeek": 982,
     "timeMonth": 963,
     "timeYear": 950,
     "dailyMinutesDown": {
@@ -44,19 +44,17 @@
     "icon": "https://favicons.githubusercontent.com/spaces.oca.ac.uk",
     "slug": "oca-spaces-blogs",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.13%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 806,
     "timeDay": 568,
-    "timeWeek": 797,
+    "timeWeek": 774,
     "timeMonth": 874,
     "timeYear": 806,
-    "dailyMinutesDown": {
-      "2021-09-29": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "OCA Main Site",
@@ -71,7 +69,7 @@
     "uptimeYear": "100.00%",
     "time": 1280,
     "timeDay": 2259,
-    "timeWeek": 2187,
+    "timeWeek": 2195,
     "timeMonth": 1359,
     "timeYear": 1280,
     "dailyMinutesDown": {}
@@ -89,7 +87,7 @@
     "uptimeYear": "100.00%",
     "time": 293,
     "timeDay": 321,
-    "timeWeek": 240,
+    "timeWeek": 263,
     "timeMonth": 264,
     "timeYear": 293,
     "dailyMinutesDown": {}
@@ -107,7 +105,7 @@
     "uptimeYear": "99.98%",
     "time": 1126,
     "timeDay": 1004,
-    "timeWeek": 1080,
+    "timeWeek": 1063,
     "timeMonth": 1090,
     "timeYear": 1126,
     "dailyMinutesDown": {
@@ -127,7 +125,7 @@
     "uptimeYear": "100.00%",
     "time": 325,
     "timeDay": 415,
-    "timeWeek": 443,
+    "timeWeek": 452,
     "timeMonth": 348,
     "timeYear": 325,
     "dailyMinutesDown": {}
@@ -145,7 +143,7 @@
     "uptimeYear": "100.00%",
     "time": 193,
     "timeDay": 214,
-    "timeWeek": 223,
+    "timeWeek": 214,
     "timeMonth": 197,
     "timeYear": 193,
     "dailyMinutesDown": {}
@@ -163,7 +161,7 @@
     "uptimeYear": "100.00%",
     "time": 287,
     "timeDay": 295,
-    "timeWeek": 384,
+    "timeWeek": 363,
     "timeMonth": 314,
     "timeYear": 287,
     "dailyMinutesDown": {}
@@ -181,7 +179,7 @@
     "uptimeYear": "100.00%",
     "time": 431,
     "timeDay": 473,
-    "timeWeek": 434,
+    "timeWeek": 440,
     "timeMonth": 408,
     "timeYear": 431,
     "dailyMinutesDown": {}
@@ -199,7 +197,7 @@
     "uptimeYear": "100.00%",
     "time": 236,
     "timeDay": 277,
-    "timeWeek": 262,
+    "timeWeek": 258,
     "timeMonth": 239,
     "timeYear": 236,
     "dailyMinutesDown": {}
@@ -235,7 +233,7 @@
     "uptimeYear": "99.98%",
     "time": 673,
     "timeDay": 599,
-    "timeWeek": 687,
+    "timeWeek": 673,
     "timeMonth": 649,
     "timeYear": 673,
     "dailyMinutesDown": {
@@ -255,7 +253,7 @@
     "uptimeYear": "100.00%",
     "time": 655,
     "timeDay": 725,
-    "timeWeek": 660,
+    "timeWeek": 659,
     "timeMonth": 664,
     "timeYear": 655,
     "dailyMinutesDown": {}
