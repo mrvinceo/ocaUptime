@@ -175,18 +175,20 @@
     "url": "https://oca.padlet.org",
     "icon": "https://favicons.githubusercontent.com/oca.padlet.org",
     "slug": "oca-padlet",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 424,
-    "timeDay": 417,
-    "timeWeek": 391,
-    "timeMonth": 408,
-    "timeYear": 424,
-    "dailyMinutesDown": {}
+    "time": 573,
+    "timeDay": 8646,
+    "timeWeek": 2452,
+    "timeMonth": 923,
+    "timeYear": 573,
+    "dailyMinutesDown": {
+      "2021-11-08": 0
+    }
   },
   {
     "name": "OCA Zoom",
