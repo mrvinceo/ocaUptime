@@ -175,19 +175,19 @@
     "url": "https://oca.padlet.org",
     "icon": "https://favicons.githubusercontent.com/oca.padlet.org",
     "slug": "oca-padlet",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 573,
-    "timeDay": 8646,
-    "timeWeek": 2452,
-    "timeMonth": 923,
-    "timeYear": 573,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "96.99%",
+    "uptimeWeek": "99.57%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.97%",
+    "time": 571,
+    "timeDay": 5866,
+    "timeWeek": 2213,
+    "timeMonth": 904,
+    "timeYear": 571,
     "dailyMinutesDown": {
-      "2021-11-08": 0
+      "2021-11-08": 43
     }
   },
   {
