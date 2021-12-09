@@ -11,8 +11,6 @@ sites:
     url: https://spaces.oca.ac.uk
   - name: OCA Main Site
     url: https://www.oca.ac.uk
-  - name: Hacker News
-    url: https://news.ycombinator.com
   - name: Panopto Media Service
     url: https://oca.cloud.panopto.eu
   - name: Gmail
@@ -26,7 +24,6 @@ sites:
   - name: OCA Zoom
     url: https://oca.zoom.us
   - name: Student Information System
-    check: "tcp-ping"
     url: https://filemaker.oca.ac.uk
     port: 443
   - name: Showcase Gallery
