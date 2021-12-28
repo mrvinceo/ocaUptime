@@ -13,7 +13,7 @@
     "time": 193,
     "timeDay": 125,
     "timeWeek": 124,
-    "timeMonth": 135,
+    "timeMonth": 130,
     "timeYear": 193,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 1201,
     "timeDay": 3072,
     "timeWeek": 2026,
-    "timeMonth": 1631,
+    "timeMonth": 1650,
     "timeYear": 1201,
     "dailyMinutesDown": {
       "2021-09-15": 25,
@@ -52,7 +52,7 @@
     "time": 838,
     "timeDay": 1032,
     "timeWeek": 856,
-    "timeMonth": 839,
+    "timeMonth": 833,
     "timeYear": 838,
     "dailyMinutesDown": {
       "2021-12-07": 18,
@@ -74,7 +74,7 @@
     "time": 2120,
     "timeDay": 2029,
     "timeWeek": 4777,
-    "timeMonth": 3522,
+    "timeMonth": 3559,
     "timeYear": 2120,
     "dailyMinutesDown": {
       "2021-12-24": 70,
@@ -95,7 +95,7 @@
     "time": 1184,
     "timeDay": 1067,
     "timeWeek": 2959,
-    "timeMonth": 1509,
+    "timeMonth": 1524,
     "timeYear": 1184,
     "dailyMinutesDown": {
       "2021-12-21": 19,
@@ -116,7 +116,7 @@
     "time": 410,
     "timeDay": 464,
     "timeWeek": 468,
-    "timeMonth": 377,
+    "timeMonth": 375,
     "timeYear": 410,
     "dailyMinutesDown": {}
   },
@@ -134,7 +134,7 @@
     "time": 207,
     "timeDay": 227,
     "timeWeek": 230,
-    "timeMonth": 216,
+    "timeMonth": 212,
     "timeYear": 207,
     "dailyMinutesDown": {}
   },
@@ -152,7 +152,7 @@
     "time": 328,
     "timeDay": 603,
     "timeWeek": 469,
-    "timeMonth": 369,
+    "timeMonth": 361,
     "timeYear": 328,
     "dailyMinutesDown": {}
   },
@@ -170,7 +170,7 @@
     "time": 532,
     "timeDay": 502,
     "timeWeek": 445,
-    "timeMonth": 438,
+    "timeMonth": 431,
     "timeYear": 532,
     "dailyMinutesDown": {
       "2021-11-08": 43
@@ -190,7 +190,7 @@
     "time": 244,
     "timeDay": 292,
     "timeWeek": 289,
-    "timeMonth": 253,
+    "timeMonth": 252,
     "timeYear": 244,
     "dailyMinutesDown": {}
   },
@@ -200,18 +200,19 @@
     "icon": "https://favicons.githubusercontent.com/filemaker.oca.ac.uk",
     "slug": "student-information-system",
     "status": "down",
-    "uptime": "96.98%",
+    "uptime": "96.94%",
     "uptimeDay": "74.19%",
-    "uptimeWeek": "74.10%",
-    "uptimeMonth": "84.64%",
-    "uptimeYear": "96.98%",
+    "uptimeWeek": "74.07%",
+    "uptimeMonth": "84.45%",
+    "uptimeYear": "96.94%",
     "time": 766,
     "timeDay": 566,
     "timeWeek": 1113,
     "timeMonth": 766,
     "timeYear": 766,
     "dailyMinutesDown": {
-      "2021-12-27": 349,
+      "2021-12-28": 63,
+      "2021-12-27": 372,
       "2021-12-26": 380,
       "2021-12-25": 369,
       "2021-12-24": 377,
@@ -246,7 +247,7 @@
     "time": 669,
     "timeDay": 1525,
     "timeWeek": 771,
-    "timeMonth": 671,
+    "timeMonth": 668,
     "timeYear": 669,
     "dailyMinutesDown": {
       "2021-11-28": 24,
