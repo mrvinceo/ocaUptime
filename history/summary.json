@@ -47,9 +47,9 @@
     "slug": "oca-spaces-blogs",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.97%",
     "time": 832,
     "timeDay": 846,
@@ -57,7 +57,6 @@
     "timeMonth": 846,
     "timeYear": 832,
     "dailyMinutesDown": {
-      "2022-04-02": 5,
       "2022-03-15": 16,
       "2022-03-12": 17,
       "2021-12-07": 18,
@@ -210,12 +209,12 @@
     "url": "https://filemaker.oca.ac.uk",
     "icon": "https://favicons.githubusercontent.com/filemaker.oca.ac.uk",
     "slug": "student-information-system",
-    "status": "up",
-    "uptime": "89.85%",
-    "uptimeDay": "74.30%",
-    "uptimeWeek": "74.46%",
+    "status": "down",
+    "uptime": "89.98%",
+    "uptimeDay": "74.34%",
+    "uptimeWeek": "74.45%",
     "uptimeMonth": "73.68%",
-    "uptimeYear": "89.85%",
+    "uptimeYear": "89.98%",
     "time": 1671,
     "timeDay": 528,
     "timeWeek": 1033,
@@ -319,8 +318,7 @@
       "2021-12-29": 377,
       "2021-12-28": 372,
       "2021-12-27": 372,
-      "2021-12-26": 380,
-      "2021-12-25": 24
+      "2021-12-26": 26
     }
   },
   {
