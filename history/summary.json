@@ -210,16 +210,16 @@
     "url": "https://filemaker.oca.ac.uk",
     "icon": "https://favicons.githubusercontent.com/filemaker.oca.ac.uk",
     "slug": "student-information-system",
-    "status": "up",
-    "uptime": "90.95%",
-    "uptimeDay": "74.05%",
-    "uptimeWeek": "73.45%",
-    "uptimeMonth": "74.08%",
-    "uptimeYear": "90.95%",
+    "status": "down",
+    "uptime": "91.07%",
+    "uptimeDay": "74.52%",
+    "uptimeWeek": "73.57%",
+    "uptimeMonth": "74.09%",
+    "uptimeYear": "91.07%",
     "time": 1561,
-    "timeDay": 626,
-    "timeWeek": 689,
-    "timeMonth": 793,
+    "timeDay": 641,
+    "timeWeek": 701,
+    "timeMonth": 803,
     "timeYear": 1561,
     "dailyMinutesDown": {
       "2022-05-04": 287,
@@ -319,8 +319,7 @@
       "2022-01-30": 376,
       "2022-01-29": 375,
       "2022-01-28": 371,
-      "2022-01-27": 372,
-      "2022-01-26": 23
+      "2022-01-27": 24
     }
   },
   {
