@@ -211,12 +211,12 @@
     "url": "https://filemaker.oca.ac.uk",
     "icon": "https://favicons.githubusercontent.com/filemaker.oca.ac.uk",
     "slug": "student-information-system",
-    "status": "up",
-    "uptime": "91.28%",
-    "uptimeDay": "73.75%",
-    "uptimeWeek": "73.57%",
+    "status": "down",
+    "uptime": "91.39%",
+    "uptimeDay": "73.72%",
+    "uptimeWeek": "73.58%",
     "uptimeMonth": "74.04%",
-    "uptimeYear": "91.28%",
+    "uptimeYear": "91.39%",
     "time": 1619,
     "timeDay": 747,
     "timeWeek": 670,
@@ -320,8 +320,7 @@
       "2022-02-10": 375,
       "2022-02-09": 378,
       "2022-02-08": 373,
-      "2022-02-07": 371,
-      "2022-02-06": 23
+      "2022-02-07": 24
     }
   },
   {
