@@ -116,12 +116,12 @@
     "slug": "gmail",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.91%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 487,
-    "timeDay": 531,
+    "timeDay": 551,
     "timeWeek": 362,
     "timeMonth": 449,
     "timeYear": 487,
@@ -154,18 +154,16 @@
     "slug": "google-calendar",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 334,
     "timeDay": 231,
     "timeWeek": 243,
     "timeMonth": 333,
     "timeYear": 334,
-    "dailyMinutesDown": {
-      "2022-05-21": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "OCA Padlet",
@@ -215,12 +213,12 @@
     "url": "https://filemaker.oca.ac.uk",
     "icon": "https://favicons.githubusercontent.com/filemaker.oca.ac.uk",
     "slug": "student-information-system",
-    "status": "up",
-    "uptime": "91.45%",
-    "uptimeDay": "73.26%",
+    "status": "down",
+    "uptime": "91.55%",
+    "uptimeDay": "73.45%",
     "uptimeWeek": "73.50%",
     "uptimeMonth": "73.98%",
-    "uptimeYear": "91.45%",
+    "uptimeYear": "91.55%",
     "time": 1604,
     "timeDay": 989,
     "timeWeek": 894,
@@ -324,8 +322,7 @@
       "2022-02-16": 371,
       "2022-02-15": 371,
       "2022-02-14": 372,
-      "2022-02-13": 376,
-      "2022-02-12": 25
+      "2022-02-13": 26
     }
   },
   {
