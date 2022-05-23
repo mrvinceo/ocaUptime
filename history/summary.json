@@ -152,19 +152,19 @@
     "url": "https://calendar.google.com",
     "icon": "https://favicons.githubusercontent.com/calendar.google.com",
     "slug": "google-calendar",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.01%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 333,
-    "timeDay": 212,
-    "timeWeek": 235,
-    "timeMonth": 318,
+    "timeDay": 291,
+    "timeWeek": 257,
+    "timeMonth": 322,
     "timeYear": 333,
     "dailyMinutesDown": {
-      "2022-05-23": 0
+      "2022-05-23": 14
     }
   },
   {
