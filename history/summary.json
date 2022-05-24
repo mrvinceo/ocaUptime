@@ -114,9 +114,9 @@
     "url": "https://mail.google.com",
     "icon": "https://favicons.githubusercontent.com/mail.google.com",
     "slug": "gmail",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "97.26%",
+    "uptimeDay": "97.25%",
     "uptimeWeek": "99.45%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.99%",
@@ -126,6 +126,7 @@
     "timeMonth": 442,
     "timeYear": 485,
     "dailyMinutesDown": {
+      "2022-05-24": 0,
       "2022-05-23": 39,
       "2022-05-20": 16
     }
@@ -215,11 +216,11 @@
     "icon": "https://favicons.githubusercontent.com/filemaker.oca.ac.uk",
     "slug": "student-information-system",
     "status": "up",
-    "uptime": "91.52%",
+    "uptime": "91.53%",
     "uptimeDay": "72.94%",
     "uptimeWeek": "73.39%",
     "uptimeMonth": "73.98%",
-    "uptimeYear": "91.52%",
+    "uptimeYear": "91.53%",
     "time": 1596,
     "timeDay": 513,
     "timeWeek": 985,
