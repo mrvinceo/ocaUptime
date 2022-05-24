@@ -116,9 +116,9 @@
     "slug": "gmail",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "96.86%",
-    "uptimeWeek": "99.40%",
-    "uptimeMonth": "99.86%",
+    "uptimeDay": "97.26%",
+    "uptimeWeek": "99.45%",
+    "uptimeMonth": "99.87%",
     "uptimeYear": "99.99%",
     "time": 485,
     "timeDay": 471,
@@ -126,7 +126,6 @@
     "timeMonth": 450,
     "timeYear": 485,
     "dailyMinutesDown": {
-      "2022-05-24": 6,
       "2022-05-23": 39,
       "2022-05-20": 16
     }
@@ -154,9 +153,9 @@
     "url": "https://calendar.google.com",
     "icon": "https://favicons.githubusercontent.com/calendar.google.com",
     "slug": "google-calendar",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -165,7 +164,9 @@
     "timeWeek": 279,
     "timeMonth": 320,
     "timeYear": 333,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-24": 0
+    }
   },
   {
     "name": "OCA Padlet",
