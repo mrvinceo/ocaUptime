@@ -78,7 +78,7 @@
     "uptimeYear": "99.97%",
     "time": 1731,
     "timeDay": 884,
-    "timeWeek": 892,
+    "timeWeek": 929,
     "timeMonth": 1191,
     "timeYear": 1731,
     "dailyMinutesDown": {
@@ -114,11 +114,11 @@
     "url": "https://mail.google.com",
     "icon": "https://favicons.githubusercontent.com/mail.google.com",
     "slug": "gmail",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "97.20%",
-    "uptimeWeek": "99.05%",
-    "uptimeMonth": "99.78%",
+    "uptimeDay": "97.64%",
+    "uptimeWeek": "99.12%",
+    "uptimeMonth": "99.80%",
     "uptimeYear": "99.98%",
     "time": 484,
     "timeDay": 308,
@@ -126,7 +126,7 @@
     "timeMonth": 440,
     "timeYear": 484,
     "dailyMinutesDown": {
-      "2022-05-25": 41,
+      "2022-05-25": 34,
       "2022-05-23": 39,
       "2022-05-20": 16
     }
@@ -161,7 +161,7 @@
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.99%",
     "time": 333,
-    "timeDay": 299,
+    "timeDay": 309,
     "timeWeek": 290,
     "timeMonth": 318,
     "timeYear": 333,
