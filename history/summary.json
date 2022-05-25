@@ -115,18 +115,18 @@
     "icon": "https://favicons.githubusercontent.com/mail.google.com",
     "slug": "gmail",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "93.15%",
-    "uptimeWeek": "98.47%",
-    "uptimeMonth": "99.65%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.97%",
+    "uptimeDay": "94.13%",
+    "uptimeWeek": "98.61%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.97%",
     "time": 482,
     "timeDay": 331,
     "timeWeek": 385,
     "timeMonth": 431,
     "timeYear": 482,
     "dailyMinutesDown": {
-      "2022-05-25": 99,
+      "2022-05-25": 85,
       "2022-05-23": 39,
       "2022-05-20": 16
     }
@@ -217,12 +217,12 @@
     "url": "https://filemaker.oca.ac.uk",
     "icon": "https://favicons.githubusercontent.com/filemaker.oca.ac.uk",
     "slug": "student-information-system",
-    "status": "up",
-    "uptime": "91.57%",
-    "uptimeDay": "73.80%",
-    "uptimeWeek": "73.53%",
-    "uptimeMonth": "73.98%",
-    "uptimeYear": "91.57%",
+    "status": "down",
+    "uptime": "91.66%",
+    "uptimeDay": "74.47%",
+    "uptimeWeek": "73.60%",
+    "uptimeMonth": "73.99%",
+    "uptimeYear": "91.66%",
     "time": 1592,
     "timeDay": 535,
     "timeWeek": 918,
@@ -326,8 +326,7 @@
       "2022-02-20": 374,
       "2022-02-19": 371,
       "2022-02-18": 372,
-      "2022-02-17": 374,
-      "2022-02-16": 24
+      "2022-02-17": 27
     }
   },
   {
