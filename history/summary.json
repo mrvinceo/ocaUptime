@@ -153,10 +153,10 @@
     "url": "https://calendar.google.com",
     "icon": "https://favicons.githubusercontent.com/calendar.google.com",
     "slug": "google-calendar",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 333,
@@ -164,7 +164,9 @@
     "timeWeek": 296,
     "timeMonth": 321,
     "timeYear": 333,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-25": 1
+    }
   },
   {
     "name": "OCA Padlet",
@@ -215,18 +217,18 @@
     "icon": "https://favicons.githubusercontent.com/filemaker.oca.ac.uk",
     "slug": "student-information-system",
     "status": "down",
-    "uptime": "91.59%",
+    "uptime": "91.57%",
     "uptimeDay": "72.83%",
     "uptimeWeek": "73.40%",
     "uptimeMonth": "73.98%",
-    "uptimeYear": "91.59%",
+    "uptimeYear": "91.57%",
     "time": 1596,
     "timeDay": 513,
     "timeWeek": 985,
     "timeMonth": 1602,
     "timeYear": 1596,
     "dailyMinutesDown": {
-      "2022-05-25": 110,
+      "2022-05-25": 182,
       "2022-05-24": 391,
       "2022-05-23": 379,
       "2022-05-22": 378,
