@@ -116,9 +116,9 @@
     "slug": "gmail",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "96.07%",
-    "uptimeWeek": "98.56%",
-    "uptimeMonth": "99.67%",
+    "uptimeDay": "96.48%",
+    "uptimeWeek": "98.61%",
+    "uptimeMonth": "99.68%",
     "uptimeYear": "99.97%",
     "time": 482,
     "timeDay": 372,
@@ -126,7 +126,6 @@
     "timeMonth": 432,
     "timeYear": 482,
     "dailyMinutesDown": {
-      "2022-05-26": 6,
       "2022-05-25": 85,
       "2022-05-23": 39,
       "2022-05-20": 16
@@ -155,9 +154,9 @@
     "url": "https://calendar.google.com",
     "icon": "https://favicons.githubusercontent.com/calendar.google.com",
     "slug": "google-calendar",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.53%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.99%",
@@ -167,6 +166,7 @@
     "timeMonth": 323,
     "timeYear": 333,
     "dailyMinutesDown": {
+      "2022-05-26": 0,
       "2022-05-25": 48
     }
   },
