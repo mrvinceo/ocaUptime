@@ -121,7 +121,7 @@
     "icon": "https://favicons.githubusercontent.com/mail.google.com",
     "slug": "gmail",
     "status": "down",
-    "uptime": "87.60%",
+    "uptime": "87.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -219,7 +219,7 @@
     "icon": "https://favicons.githubusercontent.com/calendar.google.com",
     "slug": "google-calendar",
     "status": "down",
-    "uptime": "87.65%",
+    "uptime": "87.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -345,9 +345,9 @@
     "url": "https://filemaker.oca.ac.uk",
     "icon": "https://favicons.githubusercontent.com/filemaker.oca.ac.uk",
     "slug": "student-information-system",
-    "status": "up",
-    "uptime": "93.64%",
-    "uptimeDay": "71.52%",
+    "status": "down",
+    "uptime": "93.65%",
+    "uptimeDay": "71.50%",
     "uptimeWeek": "70.91%",
     "uptimeMonth": "68.86%",
     "uptimeYear": "92.58%",
@@ -454,7 +454,7 @@
       "2022-06-23": 379,
       "2022-06-22": 376,
       "2022-06-21": 372,
-      "2022-06-20": 100
+      "2022-06-20": 82
     }
   },
   {
