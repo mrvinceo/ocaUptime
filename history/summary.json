@@ -33,7 +33,7 @@
     "time": 1848,
     "timeDay": 891,
     "timeWeek": 1350,
-    "timeMonth": 1423,
+    "timeMonth": 1522,
     "timeYear": 2085,
     "dailyMinutesDown": {
       "2022-08-16": 16,
@@ -55,7 +55,7 @@
     "time": 814,
     "timeDay": 763,
     "timeWeek": 709,
-    "timeMonth": 672,
+    "timeMonth": 670,
     "timeYear": 811,
     "dailyMinutesDown": {
       "2022-07-20": 269,
@@ -83,7 +83,7 @@
     "time": 1637,
     "timeDay": 1208,
     "timeWeek": 2083,
-    "timeMonth": 1768,
+    "timeMonth": 1753,
     "timeYear": 1656,
     "dailyMinutesDown": {
       "2022-10-27": 58,
@@ -109,7 +109,7 @@
     "time": 1022,
     "timeDay": 877,
     "timeWeek": 839,
-    "timeMonth": 874,
+    "timeMonth": 875,
     "timeYear": 994,
     "dailyMinutesDown": {
       "2021-12-21": 19
@@ -209,7 +209,7 @@
     "time": 213,
     "timeDay": 316,
     "timeWeek": 225,
-    "timeMonth": 231,
+    "timeMonth": 230,
     "timeYear": 216,
     "dailyMinutesDown": {}
   },
@@ -305,7 +305,7 @@
     "time": 470,
     "timeDay": 320,
     "timeWeek": 377,
-    "timeMonth": 380,
+    "timeMonth": 381,
     "timeYear": 481,
     "dailyMinutesDown": {
       "2022-09-11": 73,
@@ -333,7 +333,7 @@
     "time": 229,
     "timeDay": 195,
     "timeWeek": 164,
-    "timeMonth": 171,
+    "timeMonth": 174,
     "timeYear": 225,
     "dailyMinutesDown": {
       "2022-09-15": 24,
@@ -346,18 +346,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/filemaker.oca.ac.uk.ico",
     "slug": "student-information-system",
     "status": "down",
-    "uptime": "93.99%",
+    "uptime": "93.96%",
     "uptimeDay": "74.10%",
     "uptimeWeek": "72.25%",
-    "uptimeMonth": "72.74%",
-    "uptimeYear": "92.40%",
+    "uptimeMonth": "71.84%",
+    "uptimeYear": "92.37%",
     "time": 1764,
     "timeDay": 14633,
     "timeWeek": 5379,
-    "timeMonth": 2822,
+    "timeMonth": 2765,
     "timeYear": 1764,
     "dailyMinutesDown": {
-      "2022-10-30": 348,
+      "2022-10-31": 136,
+      "2022-10-30": 373,
       "2022-10-29": 380,
       "2022-10-28": 393,
       "2022-10-27": 379,
@@ -472,7 +473,7 @@
     "time": 711,
     "timeDay": 746,
     "timeWeek": 600,
-    "timeMonth": 580,
+    "timeMonth": 578,
     "timeYear": 723,
     "dailyMinutesDown": {
       "2022-07-01": 72,
@@ -498,7 +499,7 @@
     "time": 663,
     "timeDay": 737,
     "timeWeek": 638,
-    "timeMonth": 621,
+    "timeMonth": 624,
     "timeYear": 663,
     "dailyMinutesDown": {}
   }
