@@ -34,7 +34,7 @@
     "timeDay": 688,
     "timeWeek": 1199,
     "timeMonth": 1255,
-    "timeYear": 2049,
+    "timeYear": 2051,
     "dailyMinutesDown": {
       "2022-11-14": 51,
       "2022-11-04": 28,
@@ -58,7 +58,7 @@
     "timeDay": 599,
     "timeWeek": 773,
     "timeMonth": 899,
-    "timeYear": 814,
+    "timeYear": 813,
     "dailyMinutesDown": {
       "2022-07-20": 269,
       "2022-07-19": 397,
@@ -67,8 +67,7 @@
       "2022-06-21": 40,
       "2022-03-15": 16,
       "2022-03-12": 17,
-      "2021-12-07": 18,
-      "2021-11-28": 24
+      "2021-12-07": 18
     }
   },
   {
@@ -86,7 +85,7 @@
     "timeDay": 880,
     "timeWeek": 1174,
     "timeMonth": 2067,
-    "timeYear": 1658,
+    "timeYear": 1657,
     "dailyMinutesDown": {
       "2022-10-27": 58,
       "2022-10-10": 20,
@@ -112,7 +111,7 @@
     "timeDay": 719,
     "timeWeek": 1589,
     "timeMonth": 1079,
-    "timeYear": 1002,
+    "timeYear": 1001,
     "dailyMinutesDown": {
       "2021-12-21": 19
     }
@@ -212,7 +211,7 @@
     "timeDay": 165,
     "timeWeek": 252,
     "timeMonth": 246,
-    "timeYear": 219,
+    "timeYear": 218,
     "dailyMinutesDown": {}
   },
   {
@@ -230,7 +229,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 333,
+    "timeYear": 332,
     "dailyMinutesDown": {
       "2022-07-22": 476,
       "2022-07-21": 1440,
@@ -308,7 +307,7 @@
     "timeDay": 371,
     "timeWeek": 417,
     "timeMonth": 401,
-    "timeYear": 438,
+    "timeYear": 437,
     "dailyMinutesDown": {
       "2022-09-11": 73,
       "2022-09-10": 43,
@@ -347,18 +346,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/filemaker.oca.ac.uk.ico",
     "slug": "student-information-system",
     "status": "down",
-    "uptime": "94.37%",
+    "uptime": "94.35%",
     "uptimeDay": "74.28%",
-    "uptimeWeek": "74.24%",
+    "uptimeWeek": "74.23%",
     "uptimeMonth": "73.60%",
-    "uptimeYear": "92.45%",
+    "uptimeYear": "92.43%",
     "time": 2179,
     "timeDay": 4264,
     "timeWeek": 5249,
     "timeMonth": 5644,
     "timeYear": 2179,
     "dailyMinutesDown": {
-      "2022-11-27": 349,
+      "2022-11-28": 96,
+      "2022-11-27": 370,
       "2022-11-26": 374,
       "2022-11-25": 371,
       "2022-11-24": 372,
@@ -481,8 +481,7 @@
       "2022-06-25": 29,
       "2022-06-21": 39,
       "2022-03-15": 16,
-      "2022-03-12": 17,
-      "2021-11-28": 24
+      "2022-03-12": 17
     }
   },
   {
@@ -491,18 +490,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/projects.oca.ac.uk.ico",
     "slug": "oca-projects",
     "status": "down",
-    "uptime": "96.22%",
+    "uptime": "96.20%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "39.13%",
-    "uptimeYear": "94.93%",
+    "uptimeMonth": "38.86%",
+    "uptimeYear": "94.90%",
     "time": 665,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 710,
     "timeYear": 663,
     "dailyMinutesDown": {
-      "2022-11-27": 1419,
+      "2022-11-28": 96,
+      "2022-11-27": 1440,
       "2022-11-26": 1440,
       "2022-11-25": 1440,
       "2022-11-24": 1440,
