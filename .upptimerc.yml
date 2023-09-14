@@ -28,13 +28,11 @@ sites:
     port: 443
   - name: Showcase Gallery
     url: https://showcase.oca.ac.uk
-  - name: OCA Projects
-    url: https://projects.oca.ac.uk
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: services.oca.ac.uk
-  # baseUrl: /your-repo-name
+  # baseUrl: /ocaUptime
   logoUrl: https://www.oca.ac.uk/wp-content/themes/oca/images/oca-logo.png
   name: OCA Services Uptime
   introTitle: "This is the OCA Services uptime and status page. Please check here to see the status of any college services if you're encountering disruption."
