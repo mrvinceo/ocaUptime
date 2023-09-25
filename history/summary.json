@@ -112,7 +112,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.google.com.ico",
     "slug": "gmail",
     "status": "down",
-    "uptime": "93.32%",
+    "uptime": "93.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -150,7 +150,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/calendar.google.com.ico",
     "slug": "google-calendar",
     "status": "down",
-    "uptime": "93.35%",
+    "uptime": "93.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -167,10 +167,10 @@
     "url": "https://oca.padlet.org",
     "icon": "https://icons.duckduckgo.com/ip3/oca.padlet.org.ico",
     "slug": "oca-padlet",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "98.45%",
-    "uptimeWeek": "99.78%",
+    "uptimeDay": "98.41%",
+    "uptimeWeek": "99.77%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 401,
@@ -179,7 +179,7 @@
     "timeMonth": 383,
     "timeYear": 372,
     "dailyMinutesDown": {
-      "2023-09-25": 22
+      "2023-09-25": 23
     }
   },
   {
