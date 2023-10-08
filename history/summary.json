@@ -112,7 +112,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.google.com.ico",
     "slug": "gmail",
     "status": "down",
-    "uptime": "93.43%",
+    "uptime": "93.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -205,17 +205,17 @@
     "url": "https://filemaker.oca.ac.uk",
     "icon": "https://icons.duckduckgo.com/ip3/filemaker.oca.ac.uk.ico",
     "slug": "student-information-system",
-    "status": "up",
-    "uptime": "96.76%",
-    "uptimeDay": "74.09%",
-    "uptimeWeek": "74.07%",
+    "status": "down",
+    "uptime": "96.80%",
+    "uptimeDay": "74.12%",
+    "uptimeWeek": "74.08%",
     "uptimeMonth": "74.39%",
-    "uptimeYear": "92.87%",
+    "uptimeYear": "92.94%",
     "time": 6857,
-    "timeDay": 13901,
+    "timeDay": 19504,
     "timeWeek": 5924,
     "timeMonth": 12086,
-    "timeYear": 7245,
+    "timeYear": 7252,
     "dailyMinutesDown": {
       "2023-10-08": 287,
       "2023-10-07": 373,
@@ -316,8 +316,7 @@
       "2023-07-04": 370,
       "2023-07-03": 370,
       "2023-07-02": 379,
-      "2023-07-01": 374,
-      "2023-06-30": 85
+      "2023-07-01": 88
     }
   },
   {
