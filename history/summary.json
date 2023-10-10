@@ -76,7 +76,7 @@
     "timeDay": 1771,
     "timeWeek": 1183,
     "timeMonth": 1010,
-    "timeYear": 1539,
+    "timeYear": 1505,
     "dailyMinutesDown": {
       "2023-03-01": 35,
       "2022-10-27": 58
@@ -149,7 +149,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/calendar.google.com.ico",
     "slug": "google-calendar",
     "status": "down",
-    "uptime": "93.47%",
+    "uptime": "93.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -204,17 +204,17 @@
     "url": "https://filemaker.oca.ac.uk",
     "icon": "https://icons.duckduckgo.com/ip3/filemaker.oca.ac.uk.ico",
     "slug": "student-information-system",
-    "status": "up",
-    "uptime": "96.77%",
-    "uptimeDay": "74.01%",
+    "status": "down",
+    "uptime": "96.80%",
+    "uptimeDay": "73.98%",
     "uptimeWeek": "74.02%",
     "uptimeMonth": "74.38%",
-    "uptimeYear": "92.87%",
+    "uptimeYear": "92.94%",
     "time": 6864,
     "timeDay": 2315,
     "timeWeek": 5740,
     "timeMonth": 11367,
-    "timeYear": 7243,
+    "timeYear": 7252,
     "dailyMinutesDown": {
       "2023-10-10": 290,
       "2023-10-09": 374,
@@ -315,8 +315,7 @@
       "2023-07-06": 375,
       "2023-07-05": 379,
       "2023-07-04": 370,
-      "2023-07-03": 370,
-      "2023-07-02": 89
+      "2023-07-03": 84
     }
   },
   {
