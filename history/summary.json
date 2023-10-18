@@ -4,20 +4,18 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 115,
-    "timeDay": 214,
-    "timeWeek": 204,
-    "timeMonth": 159,
+    "timeDay": 174,
+    "timeWeek": 186,
+    "timeMonth": 157,
     "timeYear": 116,
-    "dailyMinutesDown": {
-      "2023-10-18": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "OCA Learn (VLE)",
@@ -206,12 +204,12 @@
     "url": "https://filemaker.oca.ac.uk",
     "icon": "https://icons.duckduckgo.com/ip3/filemaker.oca.ac.uk.ico",
     "slug": "student-information-system",
-    "status": "up",
-    "uptime": "96.80%",
-    "uptimeDay": "74.24%",
-    "uptimeWeek": "74.02%",
+    "status": "down",
+    "uptime": "96.84%",
+    "uptimeDay": "74.22%",
+    "uptimeWeek": "74.03%",
     "uptimeMonth": "74.38%",
-    "uptimeYear": "92.87%",
+    "uptimeYear": "92.94%",
     "time": 6916,
     "timeDay": 14670,
     "timeWeek": 7024,
@@ -317,8 +315,7 @@
       "2023-07-14": 377,
       "2023-07-13": 375,
       "2023-07-12": 370,
-      "2023-07-11": 377,
-      "2023-07-10": 83
+      "2023-07-11": 87
     }
   },
   {
