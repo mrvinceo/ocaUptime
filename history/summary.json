@@ -6,18 +6,16 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 116,
-    "timeDay": 213,
-    "timeWeek": 129,
-    "timeMonth": 141,
+    "timeDay": 158,
+    "timeWeek": 130,
+    "timeMonth": 135,
     "timeYear": 116,
-    "dailyMinutesDown": {
-      "2023-11-13": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "OCA Learn (VLE)",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
-    "time": 1578,
-    "timeDay": 854,
-    "timeWeek": 1073,
-    "timeMonth": 1687,
-    "timeYear": 1531,
+    "time": 1576,
+    "timeDay": 3733,
+    "timeWeek": 1481,
+    "timeMonth": 1747,
+    "timeYear": 1539,
     "dailyMinutesDown": {
       "2023-09-11": 18,
       "2023-07-03": 75,
@@ -55,11 +53,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 730,
-    "timeDay": 594,
-    "timeWeek": 677,
-    "timeMonth": 658,
-    "timeYear": 723,
+    "time": 731,
+    "timeDay": 883,
+    "timeWeek": 675,
+    "timeMonth": 663,
+    "timeYear": 712,
     "dailyMinutesDown": {
       "2023-10-30": 23
     }
@@ -75,11 +73,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1513,
-    "timeDay": 1685,
-    "timeWeek": 1726,
-    "timeMonth": 1921,
-    "timeYear": 1513,
+    "time": 1516,
+    "timeDay": 2327,
+    "timeWeek": 1772,
+    "timeMonth": 1923,
+    "timeYear": 1516,
     "dailyMinutesDown": {
       "2023-03-01": 35
     }
@@ -95,11 +93,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 945,
-    "timeDay": 1072,
-    "timeWeek": 1022,
-    "timeMonth": 942,
-    "timeYear": 959,
+    "time": 946,
+    "timeDay": 1337,
+    "timeWeek": 1087,
+    "timeMonth": 954,
+    "timeYear": 961,
     "dailyMinutesDown": {
       "2023-09-07": 23,
       "2023-06-30": 27,
@@ -136,11 +134,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 284,
+    "time": 285,
     "timeDay": 419,
-    "timeWeek": 309,
-    "timeMonth": 400,
-    "timeYear": 303,
+    "timeWeek": 332,
+    "timeMonth": 399,
+    "timeYear": 304,
     "dailyMinutesDown": {
       "2023-07-05": 16
     }
@@ -175,10 +173,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 373,
-    "timeDay": 443,
-    "timeWeek": 413,
-    "timeMonth": 384,
-    "timeYear": 373,
+    "timeDay": 455,
+    "timeWeek": 430,
+    "timeMonth": 389,
+    "timeYear": 374,
     "dailyMinutesDown": {
       "2023-09-25": 22
     }
@@ -194,10 +192,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 214,
-    "timeDay": 221,
-    "timeWeek": 199,
-    "timeMonth": 207,
+    "time": 215,
+    "timeDay": 392,
+    "timeWeek": 228,
+    "timeMonth": 213,
     "timeYear": 218,
     "dailyMinutesDown": {}
   },
@@ -206,16 +204,16 @@
     "url": "https://filemaker.oca.ac.uk",
     "icon": "https://icons.duckduckgo.com/ip3/filemaker.oca.ac.uk.ico",
     "slug": "student-information-system",
-    "status": "up",
-    "uptime": "96.81%",
-    "uptimeDay": "73.97%",
-    "uptimeWeek": "74.07%",
-    "uptimeMonth": "70.89%",
-    "uptimeYear": "92.65%",
-    "time": 7019,
-    "timeDay": 3344,
-    "timeWeek": 6167,
-    "timeMonth": 6597,
+    "status": "down",
+    "uptime": "96.84%",
+    "uptimeDay": "74.22%",
+    "uptimeWeek": "74.09%",
+    "uptimeMonth": "71.03%",
+    "uptimeYear": "92.72%",
+    "time": 7009,
+    "timeDay": 3331,
+    "timeWeek": 6165,
+    "timeMonth": 6469,
     "timeYear": 7440,
     "dailyMinutesDown": {
       "2023-11-13": 347,
@@ -317,8 +315,7 @@
       "2023-08-09": 378,
       "2023-08-08": 377,
       "2023-08-07": 374,
-      "2023-08-06": 374,
-      "2023-08-05": 87
+      "2023-08-06": 87
     }
   },
   {
@@ -332,11 +329,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 574,
-    "timeDay": 571,
-    "timeWeek": 515,
-    "timeMonth": 526,
-    "timeYear": 546,
+    "time": 573,
+    "timeDay": 548,
+    "timeWeek": 527,
+    "timeMonth": 525,
+    "timeYear": 545,
     "dailyMinutesDown": {
       "2023-01-26": 55
     }
