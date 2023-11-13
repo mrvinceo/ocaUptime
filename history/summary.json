@@ -4,18 +4,20 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 115,
-    "timeDay": 262,
-    "timeWeek": 112,
-    "timeMonth": 139,
+    "time": 116,
+    "timeDay": 283,
+    "timeWeek": 136,
+    "timeMonth": 143,
     "timeYear": 116,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-13": 0
+    }
   },
   {
     "name": "OCA Learn (VLE)",
@@ -111,7 +113,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.google.com.ico",
     "slug": "gmail",
     "status": "down",
-    "uptime": "93.71%",
+    "uptime": "93.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -212,7 +214,7 @@
     "uptimeYear": "92.65%",
     "time": 7019,
     "timeDay": 3344,
-    "timeWeek": 5981,
+    "timeWeek": 6167,
     "timeMonth": 6597,
     "timeYear": 7440,
     "dailyMinutesDown": {
