@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 114,
-    "timeDay": 68,
-    "timeWeek": 126,
+    "timeDay": 58,
+    "timeWeek": 104,
     "timeMonth": 116,
     "timeYear": 116,
     "dailyMinutesDown": {}
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 1574,
-    "timeDay": 767,
-    "timeWeek": 1502,
-    "timeMonth": 1737,
-    "timeYear": 1544,
+    "time": 1572,
+    "timeDay": 634,
+    "timeWeek": 1471,
+    "timeMonth": 1624,
+    "timeYear": 1542,
     "dailyMinutesDown": {
       "2023-09-11": 18,
       "2023-07-03": 75,
@@ -52,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 729,
-    "timeDay": 487,
-    "timeWeek": 689,
-    "timeMonth": 667,
-    "timeYear": 711,
+    "time": 728,
+    "timeDay": 467,
+    "timeWeek": 671,
+    "timeMonth": 665,
+    "timeYear": 709,
     "dailyMinutesDown": {
       "2023-10-30": 23
     }
@@ -72,11 +72,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1515,
-    "timeDay": 1677,
-    "timeWeek": 1978,
-    "timeMonth": 1901,
-    "timeYear": 1485,
+    "time": 1517,
+    "timeDay": 1751,
+    "timeWeek": 1987,
+    "timeMonth": 1890,
+    "timeYear": 1487,
     "dailyMinutesDown": {
       "2023-03-01": 35
     }
@@ -93,10 +93,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 946,
-    "timeDay": 879,
-    "timeWeek": 1021,
-    "timeMonth": 958,
-    "timeYear": 961,
+    "timeDay": 611,
+    "timeWeek": 955,
+    "timeMonth": 956,
+    "timeYear": 959,
     "dailyMinutesDown": {
       "2023-09-07": 23,
       "2023-06-30": 27,
@@ -134,9 +134,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 285,
-    "timeDay": 226,
-    "timeWeek": 306,
-    "timeMonth": 382,
+    "timeDay": 215,
+    "timeWeek": 276,
+    "timeMonth": 379,
     "timeYear": 304,
     "dailyMinutesDown": {
       "2023-07-05": 16
@@ -148,7 +148,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/calendar.google.com.ico",
     "slug": "google-calendar",
     "status": "down",
-    "uptime": "93.78%",
+    "uptime": "93.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -172,10 +172,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 373,
-    "timeDay": 392,
-    "timeWeek": 401,
-    "timeMonth": 397,
-    "timeYear": 374,
+    "timeDay": 368,
+    "timeWeek": 391,
+    "timeMonth": 400,
+    "timeYear": 373,
     "dailyMinutesDown": {
       "2023-09-25": 22
     }
@@ -192,10 +192,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 214,
-    "timeDay": 135,
-    "timeWeek": 196,
+    "timeDay": 120,
+    "timeWeek": 181,
     "timeMonth": 208,
-    "timeYear": 216,
+    "timeYear": 215,
     "dailyMinutesDown": {}
   },
   {
@@ -203,17 +203,17 @@
     "url": "https://filemaker.oca.ac.uk",
     "icon": "https://icons.duckduckgo.com/ip3/filemaker.oca.ac.uk.ico",
     "slug": "student-information-system",
-    "status": "up",
-    "uptime": "96.83%",
-    "uptimeDay": "74.27%",
-    "uptimeWeek": "74.06%",
-    "uptimeMonth": "70.89%",
-    "uptimeYear": "92.65%",
-    "time": 6997,
-    "timeDay": 14670,
-    "timeWeek": 4224,
-    "timeMonth": 5945,
-    "timeYear": 7392,
+    "status": "down",
+    "uptime": "96.86%",
+    "uptimeDay": "74.24%",
+    "uptimeWeek": "74.07%",
+    "uptimeMonth": "71.02%",
+    "uptimeYear": "92.73%",
+    "time": 6987,
+    "timeDay": 14630,
+    "timeWeek": 4209,
+    "timeMonth": 5840,
+    "timeYear": 7391,
     "dailyMinutesDown": {
       "2023-11-19": 347,
       "2023-11-18": 371,
@@ -314,8 +314,7 @@
       "2023-08-15": 376,
       "2023-08-14": 378,
       "2023-08-13": 375,
-      "2023-08-12": 380,
-      "2023-08-11": 85
+      "2023-08-12": 88
     }
   },
   {
@@ -330,10 +329,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 571,
-    "timeDay": 361,
-    "timeWeek": 502,
-    "timeMonth": 522,
-    "timeYear": 541,
+    "timeDay": 417,
+    "timeWeek": 480,
+    "timeMonth": 521,
+    "timeYear": 540,
     "dailyMinutesDown": {
       "2023-01-26": 55
     }
