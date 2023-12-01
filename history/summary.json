@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 113,
-    "timeDay": 106,
-    "timeWeek": 80,
+    "timeDay": 85,
+    "timeWeek": 83,
     "timeMonth": 93,
     "timeYear": 114,
     "dailyMinutesDown": {}
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 1567,
-    "timeDay": 1013,
-    "timeWeek": 997,
-    "timeMonth": 1269,
-    "timeYear": 1532,
+    "timeDay": 1217,
+    "timeWeek": 1056,
+    "timeMonth": 1243,
+    "timeYear": 1533,
     "dailyMinutesDown": {
       "2023-09-11": 18,
       "2023-07-03": 75,
@@ -52,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 724,
-    "timeDay": 588,
-    "timeWeek": 652,
-    "timeMonth": 668,
-    "timeYear": 706,
+    "time": 723,
+    "timeDay": 507,
+    "timeWeek": 637,
+    "timeMonth": 654,
+    "timeYear": 705,
     "dailyMinutesDown": {
       "2023-10-30": 23
     }
@@ -72,11 +72,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1536,
-    "timeDay": 1712,
-    "timeWeek": 1765,
-    "timeMonth": 1833,
-    "timeYear": 1505,
+    "time": 1538,
+    "timeDay": 1580,
+    "timeWeek": 1761,
+    "timeMonth": 1808,
+    "timeYear": 1507,
     "dailyMinutesDown": {
       "2023-03-01": 35
     }
@@ -93,10 +93,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 946,
-    "timeDay": 804,
-    "timeWeek": 1002,
-    "timeMonth": 965,
-    "timeYear": 950,
+    "timeDay": 886,
+    "timeWeek": 1000,
+    "timeMonth": 966,
+    "timeYear": 949,
     "dailyMinutesDown": {
       "2023-09-07": 23,
       "2023-06-30": 27,
@@ -134,10 +134,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 286,
-    "timeDay": 209,
-    "timeWeek": 287,
-    "timeMonth": 369,
-    "timeYear": 305,
+    "timeDay": 293,
+    "timeWeek": 296,
+    "timeMonth": 370,
+    "timeYear": 306,
     "dailyMinutesDown": {
       "2023-07-05": 16
     }
@@ -172,9 +172,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 374,
-    "timeDay": 323,
-    "timeWeek": 399,
-    "timeMonth": 406,
+    "timeDay": 457,
+    "timeWeek": 404,
+    "timeMonth": 405,
     "timeYear": 373,
     "dailyMinutesDown": {
       "2023-09-25": 22
@@ -192,7 +192,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 211,
-    "timeDay": 131,
+    "timeDay": 135,
     "timeWeek": 149,
     "timeMonth": 178,
     "timeYear": 212,
@@ -203,15 +203,15 @@
     "url": "https://filemaker.oca.ac.uk",
     "icon": "https://icons.duckduckgo.com/ip3/filemaker.oca.ac.uk.ico",
     "slug": "student-information-system",
-    "status": "up",
-    "uptime": "96.88%",
-    "uptimeDay": "73.91%",
+    "status": "down",
+    "uptime": "96.91%",
+    "uptimeDay": "73.88%",
     "uptimeWeek": "73.79%",
     "uptimeMonth": "74.32%",
-    "uptimeYear": "92.66%",
-    "time": 6936,
-    "timeDay": 5407,
-    "timeWeek": 4249,
+    "uptimeYear": "92.73%",
+    "time": 6935,
+    "timeDay": 5369,
+    "timeWeek": 4250,
     "timeMonth": 4316,
     "timeYear": 7313,
     "dailyMinutesDown": {
@@ -314,8 +314,7 @@
       "2023-08-27": 373,
       "2023-08-26": 377,
       "2023-08-25": 376,
-      "2023-08-24": 373,
-      "2023-08-23": 85
+      "2023-08-24": 86
     }
   },
   {
@@ -329,11 +328,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 566,
-    "timeDay": 500,
+    "time": 565,
+    "timeDay": 446,
     "timeWeek": 495,
     "timeMonth": 501,
-    "timeYear": 537,
+    "timeYear": 536,
     "dailyMinutesDown": {
       "2023-01-26": 55
     }
