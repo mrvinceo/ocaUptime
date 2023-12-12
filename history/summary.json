@@ -45,9 +45,9 @@
     "url": "https://spaces.oca.ac.uk",
     "icon": "https://icons.duckduckgo.com/ip3/spaces.oca.ac.uk.ico",
     "slug": "oca-spaces-blogs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -57,6 +57,7 @@
     "timeMonth": 721,
     "timeYear": 709,
     "dailyMinutesDown": {
+      "2023-12-12": 0,
       "2023-10-30": 23
     }
   },
@@ -212,7 +213,7 @@
     "timeDay": 5523,
     "timeWeek": 6427,
     "timeMonth": 4708,
-    "timeYear": 7353,
+    "timeYear": 7323,
     "dailyMinutesDown": {
       "2023-12-12": 350,
       "2023-12-11": 374,
