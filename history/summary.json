@@ -31,7 +31,7 @@
     "time": 1559,
     "timeDay": 1026,
     "timeWeek": 3358,
-    "timeMonth": 1994,
+    "timeMonth": 1963,
     "timeYear": 1557,
     "dailyMinutesDown": {
       "2023-09-11": 18,
@@ -54,7 +54,7 @@
     "time": 723,
     "timeDay": 732,
     "timeWeek": 625,
-    "timeMonth": 789,
+    "timeMonth": 783,
     "timeYear": 711,
     "dailyMinutesDown": {
       "2023-10-30": 23
@@ -74,7 +74,7 @@
     "time": 1599,
     "timeDay": 2974,
     "timeWeek": 2116,
-    "timeMonth": 2105,
+    "timeMonth": 2092,
     "timeYear": 1579,
     "dailyMinutesDown": {
       "2023-03-01": 35
@@ -94,7 +94,7 @@
     "time": 949,
     "timeDay": 1203,
     "timeWeek": 935,
-    "timeMonth": 945,
+    "timeMonth": 940,
     "timeYear": 950,
     "dailyMinutesDown": {
       "2023-09-07": 23,
@@ -135,7 +135,7 @@
     "time": 291,
     "timeDay": 461,
     "timeWeek": 318,
-    "timeMonth": 321,
+    "timeMonth": 318,
     "timeYear": 313,
     "dailyMinutesDown": {
       "2023-07-05": 16
@@ -173,7 +173,7 @@
     "time": 373,
     "timeDay": 333,
     "timeWeek": 389,
-    "timeMonth": 372,
+    "timeMonth": 371,
     "timeYear": 369,
     "dailyMinutesDown": {
       "2023-09-25": 22
@@ -193,7 +193,7 @@
     "time": 208,
     "timeDay": 224,
     "timeWeek": 186,
-    "timeMonth": 159,
+    "timeMonth": 158,
     "timeYear": 210,
     "dailyMinutesDown": {}
   },
@@ -203,18 +203,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/filemaker.oca.ac.uk.ico",
     "slug": "student-information-system",
     "status": "down",
-    "uptime": "97.04%",
-    "uptimeDay": "73.63%",
-    "uptimeWeek": "73.97%",
-    "uptimeMonth": "74.28%",
-    "uptimeYear": "92.79%",
+    "uptime": "97.03%",
+    "uptimeDay": "73.50%",
+    "uptimeWeek": "73.95%",
+    "uptimeMonth": "73.42%",
+    "uptimeYear": "92.77%",
     "time": 7045,
     "timeDay": 5682,
     "timeWeek": 7390,
-    "timeMonth": 6043,
+    "timeMonth": 5882,
     "timeYear": 7310,
     "dailyMinutesDown": {
-      "2023-12-30": 355,
+      "2023-12-31": 74,
+      "2023-12-30": 382,
       "2023-12-29": 372,
       "2023-12-28": 372,
       "2023-12-27": 371,
@@ -329,7 +330,7 @@
     "time": 554,
     "timeDay": 664,
     "timeWeek": 525,
-    "timeMonth": 543,
+    "timeMonth": 541,
     "timeYear": 530,
     "dailyMinutesDown": {
       "2023-01-26": 55
