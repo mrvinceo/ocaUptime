@@ -38,8 +38,7 @@
       "2024-01-18": 53,
       "2023-09-11": 18,
       "2023-07-03": 75,
-      "2023-05-12": 41,
-      "2023-02-23": 36
+      "2023-05-12": 41
     }
   },
   {
@@ -151,7 +150,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/calendar.google.com.ico",
     "slug": "google-calendar",
     "status": "down",
-    "uptime": "94.41%",
+    "uptime": "94.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -211,14 +210,15 @@
     "uptimeDay": "74.08%",
     "uptimeWeek": "74.05%",
     "uptimeMonth": "73.45%",
-    "uptimeYear": "93.07%",
+    "uptimeYear": "93.05%",
     "time": 6940,
     "timeDay": 5509,
     "timeWeek": 5744,
     "timeMonth": 4937,
     "timeYear": 7411,
     "dailyMinutesDown": {
-      "2024-02-22": 350,
+      "2024-02-23": 64,
+      "2024-02-22": 373,
       "2024-02-21": 375,
       "2024-02-20": 374,
       "2024-02-19": 373,
