@@ -31,7 +31,7 @@
     "time": 1604,
     "timeDay": 674,
     "timeWeek": 695,
-    "timeMonth": 713,
+    "timeMonth": 792,
     "timeYear": 1645,
     "dailyMinutesDown": {
       "2024-03-27": 28,
@@ -56,7 +56,7 @@
     "time": 701,
     "timeDay": 517,
     "timeWeek": 635,
-    "timeMonth": 671,
+    "timeMonth": 669,
     "timeYear": 693,
     "dailyMinutesDown": {
       "2024-03-08": 24,
@@ -78,7 +78,7 @@
     "time": 1666,
     "timeDay": 1732,
     "timeWeek": 1955,
-    "timeMonth": 1991,
+    "timeMonth": 2001,
     "timeYear": 1762,
     "dailyMinutesDown": {
       "2024-03-11": 26,
@@ -99,7 +99,7 @@
     "time": 945,
     "timeDay": 835,
     "timeWeek": 894,
-    "timeMonth": 900,
+    "timeMonth": 898,
     "timeYear": 950,
     "dailyMinutesDown": {
       "2023-09-07": 23,
@@ -140,7 +140,7 @@
     "time": 314,
     "timeDay": 330,
     "timeWeek": 355,
-    "timeMonth": 354,
+    "timeMonth": 356,
     "timeYear": 336,
     "dailyMinutesDown": {
       "2023-07-05": 16
@@ -178,7 +178,7 @@
     "time": 406,
     "timeDay": 384,
     "timeWeek": 518,
-    "timeMonth": 862,
+    "timeMonth": 846,
     "timeYear": 422,
     "dailyMinutesDown": {
       "2023-09-25": 22
@@ -198,7 +198,7 @@
     "time": 202,
     "timeDay": 150,
     "timeWeek": 157,
-    "timeMonth": 173,
+    "timeMonth": 174,
     "timeYear": 199,
     "dailyMinutesDown": {}
   },
@@ -208,18 +208,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/filemaker.oca.ac.uk.ico",
     "slug": "student-information-system",
     "status": "down",
-    "uptime": "97.41%",
+    "uptime": "97.40%",
     "uptimeDay": "74.05%",
     "uptimeWeek": "73.89%",
-    "uptimeMonth": "74.95%",
-    "uptimeYear": "93.06%",
+    "uptimeMonth": "74.09%",
+    "uptimeYear": "93.04%",
     "time": 7119,
     "timeDay": 8541,
     "timeWeek": 5336,
-    "timeMonth": 6426,
+    "timeMonth": 6529,
     "timeYear": 7320,
     "dailyMinutesDown": {
-      "2024-03-29": 350,
+      "2024-03-30": 64,
+      "2024-03-29": 374,
       "2024-03-28": 374,
       "2024-03-27": 379,
       "2024-03-26": 377,
@@ -333,7 +334,7 @@
     "time": 537,
     "timeDay": 516,
     "timeWeek": 485,
-    "timeMonth": 522,
+    "timeMonth": 519,
     "timeYear": 524,
     "dailyMinutesDown": {}
   }
