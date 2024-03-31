@@ -31,7 +31,7 @@
     "time": 1599,
     "timeDay": 672,
     "timeWeek": 697,
-    "timeMonth": 712,
+    "timeMonth": 788,
     "timeYear": 1643,
     "dailyMinutesDown": {
       "2024-03-27": 28,
@@ -56,7 +56,7 @@
     "time": 701,
     "timeDay": 607,
     "timeWeek": 630,
-    "timeMonth": 669,
+    "timeMonth": 667,
     "timeYear": 692,
     "dailyMinutesDown": {
       "2024-03-08": 24,
@@ -78,7 +78,7 @@
     "time": 1668,
     "timeDay": 1849,
     "timeWeek": 1938,
-    "timeMonth": 1986,
+    "timeMonth": 1996,
     "timeYear": 1763,
     "dailyMinutesDown": {
       "2024-03-11": 26,
@@ -99,7 +99,7 @@
     "time": 946,
     "timeDay": 843,
     "timeWeek": 892,
-    "timeMonth": 898,
+    "timeMonth": 896,
     "timeYear": 949,
     "dailyMinutesDown": {
       "2023-09-07": 23,
@@ -114,7 +114,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.google.com.ico",
     "slug": "gmail",
     "status": "down",
-    "uptime": "94.60%",
+    "uptime": "94.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -140,7 +140,7 @@
     "time": 314,
     "timeDay": 353,
     "timeWeek": 358,
-    "timeMonth": 354,
+    "timeMonth": 355,
     "timeYear": 336,
     "dailyMinutesDown": {
       "2023-07-05": 16
@@ -178,7 +178,7 @@
     "time": 406,
     "timeDay": 366,
     "timeWeek": 493,
-    "timeMonth": 822,
+    "timeMonth": 808,
     "timeYear": 421,
     "dailyMinutesDown": {
       "2024-03-30": 27,
@@ -199,7 +199,7 @@
     "time": 202,
     "timeDay": 137,
     "timeWeek": 156,
-    "timeMonth": 172,
+    "timeMonth": 173,
     "timeYear": 198,
     "dailyMinutesDown": {}
   },
@@ -209,18 +209,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/filemaker.oca.ac.uk.ico",
     "slug": "student-information-system",
     "status": "down",
-    "uptime": "97.41%",
-    "uptimeDay": "74.21%",
+    "uptime": "97.40%",
+    "uptimeDay": "74.05%",
     "uptimeWeek": "73.93%",
-    "uptimeMonth": "74.10%",
-    "uptimeYear": "93.06%",
+    "uptimeMonth": "73.24%",
+    "uptimeYear": "93.04%",
     "time": 7149,
     "timeDay": 12058,
     "timeWeek": 6174,
-    "timeMonth": 6602,
+    "timeMonth": 6696,
     "timeYear": 7328,
     "dailyMinutesDown": {
-      "2024-03-30": 347,
+      "2024-03-31": 73,
+      "2024-03-30": 373,
       "2024-03-29": 374,
       "2024-03-28": 374,
       "2024-03-27": 379,
@@ -334,7 +335,7 @@
     "time": 537,
     "timeDay": 519,
     "timeWeek": 486,
-    "timeMonth": 522,
+    "timeMonth": 519,
     "timeYear": 524,
     "dailyMinutesDown": {}
   }
