@@ -208,17 +208,17 @@
     "url": "https://filemaker.oca.ac.uk",
     "icon": "https://icons.duckduckgo.com/ip3/filemaker.oca.ac.uk.ico",
     "slug": "student-information-system",
-    "status": "up",
-    "uptime": "97.39%",
-    "uptimeDay": "74.07%",
-    "uptimeWeek": "73.93%",
-    "uptimeMonth": "73.25%",
-    "uptimeYear": "93.00%",
-    "time": 7186,
-    "timeDay": 6911,
-    "timeWeek": 5559,
-    "timeMonth": 6558,
-    "timeYear": 7283,
+    "status": "down",
+    "uptime": "97.42%",
+    "uptimeDay": "74.17%",
+    "uptimeWeek": "74.53%",
+    "uptimeMonth": "73.39%",
+    "uptimeYear": "93.07%",
+    "time": 7196,
+    "timeDay": 2670,
+    "timeWeek": 4977,
+    "timeMonth": 6475,
+    "timeYear": 7292,
     "dailyMinutesDown": {
       "2024-04-02": 288,
       "2024-04-01": 373,
@@ -317,8 +317,7 @@
       "2023-12-30": 382,
       "2023-12-29": 372,
       "2023-12-28": 372,
-      "2023-12-27": 371,
-      "2023-12-26": 28
+      "2023-12-27": 24
     }
   },
   {
