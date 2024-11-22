@@ -87,12 +87,12 @@
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.89%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 1782,
     "timeDay": 1219,
     "timeWeek": 1430,
-    "timeMonth": 1425,
+    "timeMonth": 1457,
     "timeYear": 1698,
     "dailyMinutesDown": {
       "2024-10-22": 49,
@@ -106,10 +106,10 @@
     "url": "https://oca.cloud.panopto.eu",
     "icon": "https://icons.duckduckgo.com/ip3/oca.cloud.panopto.eu.ico",
     "slug": "panopto-media-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 942,
@@ -117,7 +117,9 @@
     "timeWeek": 777,
     "timeMonth": 845,
     "timeYear": 941,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-22": 1
+    }
   },
   {
     "name": "Gmail",
@@ -125,7 +127,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.google.com.ico",
     "slug": "gmail",
     "status": "down",
-    "uptime": "95.65%",
+    "uptime": "95.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -338,9 +340,9 @@
     "url": "https://showcase.oca.ac.uk",
     "icon": "https://icons.duckduckgo.com/ip3/showcase.oca.ac.uk.ico",
     "slug": "showcase-gallery",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -349,6 +351,8 @@
     "timeWeek": 487,
     "timeMonth": 491,
     "timeYear": 530,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-22": 0
+    }
   }
 ]
