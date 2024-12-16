@@ -62,7 +62,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/spaces.oca.ac.uk.ico",
     "slug": "oca-spaces-blogs",
     "status": "up",
-    "uptime": "99.93%",
+    "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -163,7 +163,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/calendar.google.com.ico",
     "slug": "google-calendar",
     "status": "down",
-    "uptime": "95.75%",
+    "uptime": "95.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -180,9 +180,9 @@
     "url": "https://oca.padlet.org",
     "icon": "https://icons.duckduckgo.com/ip3/oca.padlet.org.ico",
     "slug": "oca-padlet",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -192,6 +192,7 @@
     "timeMonth": 468,
     "timeYear": 483,
     "dailyMinutesDown": {
+      "2024-12-16": 0,
       "2024-03-30": 27
     }
   },
@@ -228,7 +229,7 @@
     "timeDay": 534,
     "timeWeek": 497,
     "timeMonth": 578,
-    "timeYear": 3070,
+    "timeYear": 3045,
     "dailyMinutesDown": {
       "2024-10-29": 20,
       "2024-08-19": 618,
