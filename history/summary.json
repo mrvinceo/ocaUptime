@@ -143,19 +143,19 @@
     "url": "https://drive.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/drive.google.com.ico",
     "slug": "google-drive",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 325,
-    "timeDay": 200,
-    "timeWeek": 292,
-    "timeMonth": 301,
+    "timeDay": 288,
+    "timeWeek": 302,
+    "timeMonth": 303,
     "timeYear": 312,
     "dailyMinutesDown": {
-      "2025-01-29": 0
+      "2025-01-29": 5
     }
   },
   {
