@@ -176,9 +176,9 @@
     "slug": "oca-padlet",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 543,
     "timeDay": 12483,
@@ -186,7 +186,6 @@
     "timeMonth": 1657,
     "timeYear": 555,
     "dailyMinutesDown": {
-      "2025-03-16": 6,
       "2024-12-26": 26,
       "2024-03-30": 27
     }
@@ -219,7 +218,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.16%",
+    "uptimeYear": "96.18%",
     "time": 2086,
     "timeDay": 487,
     "timeWeek": 520,
@@ -270,8 +269,7 @@
       "2024-03-21": 377,
       "2024-03-20": 377,
       "2024-03-19": 373,
-      "2024-03-18": 376,
-      "2024-03-17": 376
+      "2024-03-18": 376
     }
   },
   {
