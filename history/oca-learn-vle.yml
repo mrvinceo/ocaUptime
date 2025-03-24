@@ -1,7 +1,7 @@
 url: https://learn.oca.ac.uk
-status: up
-code: 200
-responseTime: 613
-lastUpdated: 2025-03-23T23:17:10.530Z
+status: down
+code: 500
+responseTime: 405
+lastUpdated: 2025-03-24T12:57:11.991Z
 startTime: 2021-07-29T10:48:47.000Z
 generator: Upptime <https://github.com/upptime/upptime>
