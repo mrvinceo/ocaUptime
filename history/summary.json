@@ -69,7 +69,7 @@
     "timeDay": 832,
     "timeWeek": 1198,
     "timeMonth": 960,
-    "timeYear": 754,
+    "timeYear": 755,
     "dailyMinutesDown": {
       "2025-03-27": 48,
       "2024-08-22": 38
@@ -195,9 +195,9 @@
     "url": "https://oca.zoom.us",
     "icon": "https://icons.duckduckgo.com/ip3/oca.zoom.us.ico",
     "slug": "oca-zoom",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -206,7 +206,9 @@
     "timeWeek": 165,
     "timeMonth": 153,
     "timeYear": 133,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-16": 1
+    }
   },
   {
     "name": "Student Information System",
@@ -218,12 +220,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.38%",
+    "uptimeYear": "98.42%",
     "time": 1305,
     "timeDay": 687,
     "timeWeek": 579,
     "timeMonth": 572,
-    "timeYear": 617,
+    "timeYear": 611,
     "dailyMinutesDown": {
       "2024-10-29": 20,
       "2024-08-19": 618,
