@@ -171,9 +171,9 @@
     "url": "https://oca.padlet.org",
     "icon": "https://icons.duckduckgo.com/ip3/oca.padlet.org.ico",
     "slug": "oca-padlet",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -183,6 +183,7 @@
     "timeMonth": 477,
     "timeYear": 583,
     "dailyMinutesDown": {
+      "2025-07-25": 0,
       "2025-06-12": 155,
       "2025-06-05": 64,
       "2024-12-26": 26
@@ -214,7 +215,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/filemaker.oca.ac.uk.ico",
     "slug": "student-information-system",
     "status": "up",
-    "uptime": "98.05%",
+    "uptime": "98.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
