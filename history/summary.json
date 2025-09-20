@@ -34,8 +34,7 @@
     "timeMonth": 883,
     "timeYear": 817,
     "dailyMinutesDown": {
-      "2025-03-24": 26,
-      "2024-09-20": 21
+      "2025-03-24": 26
     }
   },
   {
@@ -66,9 +65,9 @@
     "slug": "oca-main-site",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
     "time": 1512,
     "timeDay": 1236,
@@ -76,7 +75,6 @@
     "timeMonth": 1359,
     "timeYear": 1527,
     "dailyMinutesDown": {
-      "2025-09-19": 6,
       "2025-08-26": 23,
       "2025-07-25": 19,
       "2025-07-20": 16,
