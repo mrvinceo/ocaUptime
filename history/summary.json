@@ -72,17 +72,17 @@
     "url": "https://www.oca.ac.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.oca.ac.uk.ico",
     "slug": "oca-main-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "86.98%",
-    "uptimeWeek": "90.00%",
+    "uptimeDay": "89.93%",
+    "uptimeWeek": "90.02%",
     "uptimeMonth": "96.14%",
     "uptimeYear": "99.25%",
-    "time": 1213,
-    "timeDay": 930,
-    "timeWeek": 1004,
-    "timeMonth": 1100,
-    "timeYear": 1162,
+    "time": 1212,
+    "timeDay": 872,
+    "timeWeek": 1005,
+    "timeMonth": 1092,
+    "timeYear": 1161,
     "dailyMinutesDown": {
       "2026-04-11": 145,
       "2026-04-10": 337,
@@ -140,7 +140,7 @@
       "2026-01-08": 48,
       "2026-01-06": 28,
       "2026-01-03": 17,
-      "2026-01-02": 40
+      "2026-01-02": 24
     }
   },
   {
@@ -283,7 +283,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/filemaker.oca.ac.uk.ico",
     "slug": "student-information-system",
     "status": "up",
-    "uptime": "98.37%",
+    "uptime": "98.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
