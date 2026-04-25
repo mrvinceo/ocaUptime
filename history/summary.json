@@ -76,12 +76,12 @@
     "status": "up",
     "uptime": "99.81%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "94.73%",
+    "uptimeWeek": "95.10%",
     "uptimeMonth": "94.03%",
     "uptimeYear": "99.09%",
     "time": 1198,
     "timeDay": 1323,
-    "timeWeek": 1086,
+    "timeWeek": 1080,
     "timeMonth": 1068,
     "timeYear": 1149,
     "dailyMinutesDown": {
@@ -172,7 +172,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.google.com.ico",
     "slug": "gmail",
     "status": "down",
-    "uptime": "96.95%",
+    "uptime": "96.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -305,9 +305,9 @@
     "url": "https://showcase.oca.ac.uk",
     "icon": "https://icons.duckduckgo.com/ip3/showcase.oca.ac.uk.ico",
     "slug": "showcase-gallery",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "91.19%",
+    "uptimeDay": "91.16%",
     "uptimeWeek": "98.74%",
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.98%",
@@ -317,7 +317,7 @@
     "timeMonth": 1666,
     "timeYear": 805,
     "dailyMinutesDown": {
-      "2026-04-25": 127
+      "2026-04-25": 128
     }
   }
 ]
