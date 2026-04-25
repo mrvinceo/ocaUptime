@@ -305,17 +305,19 @@
     "url": "https://showcase.oca.ac.uk",
     "icon": "https://icons.duckduckgo.com/ip3/showcase.oca.ac.uk.ico",
     "slug": "showcase-gallery",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 701,
+    "time": 702,
     "timeDay": 18923,
     "timeWeek": 3215,
     "timeMonth": 1159,
     "timeYear": 759,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-25": 0
+    }
   }
 ]
