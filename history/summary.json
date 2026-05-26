@@ -74,16 +74,16 @@
     "url": "https://www.oca.ac.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.oca.ac.uk.ico",
     "slug": "oca-main-site",
-    "status": "down",
-    "uptime": "99.79%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "95.90%",
-    "uptimeMonth": "98.23%",
-    "uptimeYear": "99.00%",
+    "status": "up",
+    "uptime": "99.78%",
+    "uptimeDay": "86.47%",
+    "uptimeWeek": "93.97%",
+    "uptimeMonth": "97.89%",
+    "uptimeYear": "98.96%",
     "time": 1185,
-    "timeDay": 1002,
-    "timeWeek": 1202,
-    "timeMonth": 1285,
+    "timeDay": 1059,
+    "timeWeek": 1200,
+    "timeMonth": 1298,
     "timeYear": 1144,
     "dailyMinutesDown": {
       "2026-02-06": 69,
@@ -146,7 +146,7 @@
       "2026-05-20": 153,
       "2026-05-24": 61,
       "2026-05-25": 198,
-      "2026-05-26": 1
+      "2026-05-26": 195
     }
   },
   {
