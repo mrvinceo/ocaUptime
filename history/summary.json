@@ -28,16 +28,16 @@
     "url": "https://learn.oca.ac.uk",
     "icon": "https://icons.duckduckgo.com/ip3/learn.oca.ac.uk.ico",
     "slug": "oca-learn-vle",
-    "status": "down",
+    "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "77.67%",
-    "uptimeWeek": "68.74%",
-    "uptimeMonth": "90.98%",
-    "uptimeYear": "99.20%",
+    "uptimeDay": "73.64%",
+    "uptimeWeek": "68.47%",
+    "uptimeMonth": "90.85%",
+    "uptimeYear": "99.19%",
     "time": 890,
-    "timeDay": 729,
-    "timeWeek": 777,
-    "timeMonth": 803,
+    "timeDay": 784,
+    "timeWeek": 792,
+    "timeMonth": 805,
     "timeYear": 952,
     "dailyMinutesDown": {
       "2026-01-30": 88,
@@ -52,7 +52,7 @@
       "2026-06-10": 744,
       "2026-06-11": 389,
       "2026-06-12": 251,
-      "2026-06-13": 321
+      "2026-06-13": 379
     }
   },
   {
@@ -70,7 +70,7 @@
     "timeDay": 3484,
     "timeWeek": 1439,
     "timeMonth": 1380,
-    "timeYear": 1016,
+    "timeYear": 1018,
     "dailyMinutesDown": {
       "2025-12-05": 19,
       "2026-01-23": 391,
@@ -82,19 +82,18 @@
     "url": "https://www.oca.ac.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.oca.ac.uk.ico",
     "slug": "oca-main-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "85.67%",
-    "uptimeWeek": "86.19%",
-    "uptimeMonth": "91.01%",
+    "uptimeDay": "85.62%",
+    "uptimeWeek": "86.18%",
+    "uptimeMonth": "91.00%",
     "uptimeYear": "98.52%",
-    "time": 1187,
-    "timeDay": 930,
-    "timeWeek": 905,
-    "timeMonth": 1054,
-    "timeYear": 1129,
+    "time": 1185,
+    "timeDay": 860,
+    "timeWeek": 887,
+    "timeMonth": 1045,
+    "timeYear": 1128,
     "dailyMinutesDown": {
-      "2026-02-22": 24,
       "2026-02-24": 152,
       "2026-02-25": 31,
       "2026-02-27": 66,
@@ -153,7 +152,7 @@
       "2026-06-08": 430,
       "2026-06-09": 318,
       "2026-06-11": 275,
-      "2026-06-13": 207
+      "2026-06-13": 208
     }
   },
   {
@@ -171,7 +170,7 @@
     "timeDay": 1524,
     "timeWeek": 1421,
     "timeMonth": 1346,
-    "timeYear": 1036,
+    "timeYear": 1037,
     "dailyMinutesDown": {
       "2025-07-02": 295,
       "2025-07-01": 368,
@@ -211,7 +210,7 @@
     "timeDay": 651,
     "timeWeek": 530,
     "timeMonth": 446,
-    "timeYear": 362,
+    "timeYear": 363,
     "dailyMinutesDown": {}
   },
   {
@@ -247,7 +246,7 @@
     "timeDay": 626,
     "timeWeek": 868,
     "timeMonth": 700,
-    "timeYear": 516,
+    "timeYear": 515,
     "dailyMinutesDown": {
       "2025-07-25": 20,
       "2025-11-07": 16,
