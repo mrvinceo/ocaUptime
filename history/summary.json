@@ -87,8 +87,8 @@
     "slug": "oca-main-site",
     "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "90.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "91.02%",
     "uptimeMonth": "90.76%",
     "uptimeYear": "98.53%",
     "time": 1183,
@@ -97,6 +97,7 @@
     "timeMonth": 1034,
     "timeYear": 1128,
     "dailyMinutesDown": {
+      "2026-02-24": 19,
       "2026-02-25": 31,
       "2026-02-27": 66,
       "2026-03-01": 73,
@@ -155,8 +156,7 @@
       "2026-06-09": 318,
       "2026-06-11": 275,
       "2026-06-13": 223,
-      "2026-06-14": 90,
-      "2026-06-16": 3
+      "2026-06-14": 90
     }
   },
   {
@@ -223,7 +223,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/calendar.google.com.ico",
     "slug": "google-calendar",
     "status": "down",
-    "uptime": "97.05%",
+    "uptime": "97.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
