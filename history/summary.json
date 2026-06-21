@@ -28,17 +28,17 @@
     "url": "https://learn.oca.ac.uk",
     "icon": "https://icons.duckduckgo.com/ip3/learn.oca.ac.uk.ico",
     "slug": "oca-learn-vle",
-    "status": "down",
+    "status": "up",
     "uptime": "99.56%",
-    "uptimeDay": "25.65%",
-    "uptimeWeek": "56.28%",
-    "uptimeMonth": "80.52%",
-    "uptimeYear": "98.33%",
+    "uptimeDay": "21.20%",
+    "uptimeWeek": "55.68%",
+    "uptimeMonth": "80.31%",
+    "uptimeYear": "98.31%",
     "time": 905,
-    "timeDay": 821,
-    "timeWeek": 947,
-    "timeMonth": 833,
-    "timeYear": 951,
+    "timeDay": 756,
+    "timeWeek": 930,
+    "timeMonth": 830,
+    "timeYear": 950,
     "dailyMinutesDown": {
       "2026-01-30": 88,
       "2026-02-04": 118,
@@ -60,7 +60,7 @@
       "2026-06-18": 454,
       "2026-06-19": 414,
       "2026-06-20": 1045,
-      "2026-06-21": 752
+      "2026-06-21": 843
     }
   },
   {
@@ -92,13 +92,13 @@
     "slug": "oca-main-site",
     "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "65.12%",
-    "uptimeWeek": "74.90%",
-    "uptimeMonth": "85.65%",
-    "uptimeYear": "98.14%",
+    "uptimeDay": "60.60%",
+    "uptimeWeek": "74.29%",
+    "uptimeMonth": "85.44%",
+    "uptimeYear": "98.12%",
     "time": 1169,
-    "timeDay": 745,
-    "timeWeek": 905,
+    "timeDay": 831,
+    "timeWeek": 925,
     "timeMonth": 970,
     "timeYear": 1115,
     "dailyMinutesDown": {
@@ -160,7 +160,7 @@
       "2026-06-18": 171,
       "2026-06-19": 103,
       "2026-06-20": 800,
-      "2026-06-21": 248
+      "2026-06-21": 339
     }
   },
   {
