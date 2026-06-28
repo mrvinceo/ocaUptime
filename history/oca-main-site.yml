@@ -1,7 +1,7 @@
 url: https://www.oca.ac.uk
-status: up
-code: 200
-responseTime: 1430
-lastUpdated: 2026-06-28T10:32:46.344Z
+status: down
+code: 415
+responseTime: 175
+lastUpdated: 2026-06-28T12:08:50.909Z
 startTime: 2021-07-26T10:15:29.000Z
 generator: Upptime <https://github.com/upptime/upptime>
