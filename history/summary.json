@@ -28,17 +28,17 @@
     "url": "https://learn.oca.ac.uk",
     "icon": "https://icons.duckduckgo.com/ip3/learn.oca.ac.uk.ico",
     "slug": "oca-learn-vle",
-    "status": "up",
+    "status": "down",
     "uptime": "99.49%",
-    "uptimeDay": "69.55%",
-    "uptimeWeek": "82.80%",
-    "uptimeMonth": "76.31%",
+    "uptimeDay": "69.48%",
+    "uptimeWeek": "84.08%",
+    "uptimeMonth": "76.30%",
     "uptimeYear": "97.98%",
-    "time": 922,
+    "time": 923,
     "timeDay": 748,
-    "timeWeek": 1006,
+    "timeWeek": 1023,
     "timeMonth": 880,
-    "timeYear": 953,
+    "timeYear": 954,
     "dailyMinutesDown": {
       "2026-01-30": 88,
       "2026-02-04": 118,
@@ -67,7 +67,7 @@
       "2026-06-25": 511,
       "2026-06-26": 65,
       "2026-06-27": 406,
-      "2026-06-28": 438
+      "2026-06-28": 439
     }
   },
   {
@@ -85,7 +85,7 @@
     "timeDay": 597,
     "timeWeek": 1887,
     "timeMonth": 1592,
-    "timeYear": 1049,
+    "timeYear": 1050,
     "dailyMinutesDown": {
       "2025-12-05": 19,
       "2026-01-23": 391,
@@ -97,19 +97,18 @@
     "url": "https://www.oca.ac.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.oca.ac.uk.ico",
     "slug": "oca-main-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.57%",
-    "uptimeDay": "46.20%",
-    "uptimeWeek": "82.93%",
+    "uptimeDay": "54.63%",
+    "uptimeWeek": "84.21%",
     "uptimeMonth": "82.34%",
-    "uptimeYear": "97.86%",
-    "time": 1156,
-    "timeDay": 1033,
-    "timeWeek": 994,
-    "timeMonth": 948,
-    "timeYear": 1080,
+    "uptimeYear": "97.87%",
+    "time": 1155,
+    "timeDay": 856,
+    "timeWeek": 956,
+    "timeMonth": 942,
+    "timeYear": 1079,
     "dailyMinutesDown": {
-      "2026-03-25": 46,
       "2026-03-26": 47,
       "2026-03-27": 107,
       "2026-03-29": 34,
@@ -161,7 +160,7 @@
       "2026-06-25": 336,
       "2026-06-26": 65,
       "2026-06-27": 537,
-      "2026-06-28": 652
+      "2026-06-28": 653
     }
   },
   {
@@ -219,7 +218,7 @@
     "timeDay": 602,
     "timeWeek": 506,
     "timeMonth": 487,
-    "timeYear": 368,
+    "timeYear": 369,
     "dailyMinutesDown": {}
   },
   {
@@ -310,7 +309,7 @@
     "timeDay": 543,
     "timeWeek": 583,
     "timeMonth": 544,
-    "timeYear": 600,
+    "timeYear": 601,
     "dailyMinutesDown": {
       "2025-07-16": 50,
       "2025-10-14": 102,
