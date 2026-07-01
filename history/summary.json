@@ -38,7 +38,7 @@
     "timeDay": 1090,
     "timeWeek": 901,
     "timeMonth": 884,
-    "timeYear": 953,
+    "timeYear": 954,
     "dailyMinutesDown": {
       "2026-01-30": 88,
       "2026-02-04": 118,
@@ -87,7 +87,7 @@
     "timeDay": 763,
     "timeWeek": 1616,
     "timeMonth": 1648,
-    "timeYear": 1051,
+    "timeYear": 1052,
     "dailyMinutesDown": {
       "2025-12-05": 19,
       "2026-01-23": 391,
@@ -99,17 +99,17 @@
     "url": "https://www.oca.ac.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.oca.ac.uk.ico",
     "slug": "oca-main-site",
-    "status": "down",
+    "status": "up",
     "uptime": "99.52%",
-    "uptimeDay": "72.63%",
-    "uptimeWeek": "70.40%",
-    "uptimeMonth": "79.16%",
-    "uptimeYear": "97.64%",
-    "time": 1148,
-    "timeDay": 496,
-    "timeWeek": 900,
-    "timeMonth": 919,
-    "timeYear": 1076,
+    "uptimeDay": "66.49%",
+    "uptimeWeek": "69.52%",
+    "uptimeMonth": "78.96%",
+    "uptimeYear": "97.62%",
+    "time": 1149,
+    "timeDay": 1099,
+    "timeWeek": 947,
+    "timeMonth": 932,
+    "timeYear": 1077,
     "dailyMinutesDown": {
       "2026-04-04": 33,
       "2026-04-05": 55,
@@ -161,7 +161,7 @@
       "2026-06-28": 690,
       "2026-06-29": 851,
       "2026-06-30": 130,
-      "2026-07-01": 373
+      "2026-07-01": 462
     }
   },
   {
@@ -174,12 +174,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.91%",
+    "uptimeYear": "99.93%",
     "time": 996,
     "timeDay": 1420,
     "timeWeek": 1367,
     "timeMonth": 1398,
-    "timeYear": 1063,
+    "timeYear": 1065,
     "dailyMinutesDown": {
       "2025-07-02": 295,
       "2025-09-27": 44
@@ -218,7 +218,7 @@
     "timeDay": 710,
     "timeWeek": 595,
     "timeMonth": 514,
-    "timeYear": 371,
+    "timeYear": 372,
     "dailyMinutesDown": {}
   },
   {
@@ -332,7 +332,7 @@
     "timeDay": 784,
     "timeWeek": 606,
     "timeMonth": 538,
-    "timeYear": 797,
+    "timeYear": 798,
     "dailyMinutesDown": {
       "2026-04-25": 668,
       "2026-04-26": 125
