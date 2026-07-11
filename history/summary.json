@@ -13,7 +13,7 @@
     "time": 125,
     "timeDay": 67,
     "timeWeek": 75,
-    "timeMonth": 84,
+    "timeMonth": 85,
     "timeYear": 128,
     "dailyMinutesDown": {
       "2025-11-20": 16,
@@ -32,7 +32,7 @@
     "uptime": "99.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "79.77%",
+    "uptimeMonth": "79.79%",
     "uptimeYear": "97.70%",
     "time": 931,
     "timeDay": 1213,
@@ -86,7 +86,7 @@
     "time": 1045,
     "timeDay": 3770,
     "timeWeek": 2258,
-    "timeMonth": 1633,
+    "timeMonth": 1661,
     "timeYear": 1072,
     "dailyMinutesDown": {
       "2025-12-05": 19,
@@ -108,7 +108,7 @@
     "time": 1162,
     "timeDay": 1196,
     "timeWeek": 1016,
-    "timeMonth": 983,
+    "timeMonth": 981,
     "timeYear": 1075,
     "dailyMinutesDown": {
       "2026-04-11": 80,
@@ -179,7 +179,7 @@
     "time": 1009,
     "timeDay": 1467,
     "timeWeek": 1415,
-    "timeMonth": 1387,
+    "timeMonth": 1382,
     "timeYear": 1081,
     "dailyMinutesDown": {
       "2025-09-27": 44
@@ -217,7 +217,7 @@
     "time": 608,
     "timeDay": 465,
     "timeWeek": 521,
-    "timeMonth": 518,
+    "timeMonth": 510,
     "timeYear": 377,
     "dailyMinutesDown": {}
   },
@@ -228,7 +228,7 @@
     "slug": "google-calendar",
     "status": "up",
     "uptime": "96.88%",
-    "uptimeDay": "24.47%",
+    "uptimeDay": "35.85%",
     "uptimeWeek": "43.66%",
     "uptimeMonth": "87.03%",
     "uptimeYear": "98.92%",
@@ -260,7 +260,7 @@
     "time": 583,
     "timeDay": 783,
     "timeWeek": 743,
-    "timeMonth": 713,
+    "timeMonth": 721,
     "timeYear": 530,
     "dailyMinutesDown": {
       "2025-07-25": 20,
@@ -295,7 +295,7 @@
     "time": 168,
     "timeDay": 161,
     "timeWeek": 133,
-    "timeMonth": 151,
+    "timeMonth": 144,
     "timeYear": 173,
     "dailyMinutesDown": {
       "2025-12-05": 19
@@ -315,7 +315,7 @@
     "time": 592,
     "timeDay": 657,
     "timeWeek": 624,
-    "timeMonth": 570,
+    "timeMonth": 564,
     "timeYear": 600,
     "dailyMinutesDown": {
       "2025-07-16": 50,
@@ -338,7 +338,7 @@
     "time": 738,
     "timeDay": 961,
     "timeWeek": 701,
-    "timeMonth": 582,
+    "timeMonth": 578,
     "timeYear": 799,
     "dailyMinutesDown": {
       "2026-04-25": 668,
