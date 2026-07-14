@@ -32,7 +32,7 @@
     "uptime": "99.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "82.08%",
+    "uptimeMonth": "82.18%",
     "uptimeYear": "97.70%",
     "time": 931,
     "timeDay": 1093,
@@ -227,14 +227,14 @@
     "url": "https://calendar.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/calendar.google.com.ico",
     "slug": "google-calendar",
-    "status": "down",
-    "uptime": "96.78%",
-    "uptimeDay": "48.18%",
+    "status": "up",
+    "uptime": "96.77%",
+    "uptimeDay": "48.21%",
     "uptimeWeek": "25.36%",
-    "uptimeMonth": "80.78%",
-    "uptimeYear": "98.40%",
+    "uptimeMonth": "80.56%",
+    "uptimeYear": "98.38%",
     "time": 454,
-    "timeDay": 434,
+    "timeDay": 437,
     "timeWeek": 452,
     "timeMonth": 454,
     "timeYear": 454,
@@ -247,7 +247,7 @@
       "2026-07-11": 829,
       "2026-07-12": 807,
       "2026-07-13": 1112,
-      "2026-07-14": 2
+      "2026-07-14": 100
     }
   },
   {
