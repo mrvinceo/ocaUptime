@@ -227,17 +227,17 @@
     "url": "https://calendar.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/calendar.google.com.ico",
     "slug": "google-calendar",
-    "status": "down",
-    "uptime": "96.77%",
-    "uptimeDay": "74.32%",
-    "uptimeWeek": "32.51%",
-    "uptimeMonth": "79.93%",
-    "uptimeYear": "98.33%",
-    "time": 453,
-    "timeDay": 449,
-    "timeWeek": 452,
-    "timeMonth": 453,
-    "timeYear": 453,
+    "status": "up",
+    "uptime": "96.76%",
+    "uptimeDay": "56.78%",
+    "uptimeWeek": "32.52%",
+    "uptimeMonth": "79.36%",
+    "uptimeYear": "98.28%",
+    "time": 457,
+    "timeDay": 467,
+    "timeWeek": 456,
+    "timeMonth": 457,
+    "timeYear": 457,
     "dailyMinutesDown": {
       "2026-07-09": 1367,
       "2026-07-08": 1440,
@@ -248,7 +248,7 @@
       "2026-07-12": 807,
       "2026-07-13": 1112,
       "2026-07-14": 360,
-      "2026-07-15": 12
+      "2026-07-15": 265
     }
   },
   {
