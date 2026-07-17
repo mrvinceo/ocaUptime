@@ -227,10 +227,10 @@
     "url": "https://calendar.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/calendar.google.com.ico",
     "slug": "google-calendar",
-    "status": "up",
+    "status": "down",
     "uptime": "96.73%",
-    "uptimeDay": "66.03%",
-    "uptimeWeek": "49.79%",
+    "uptimeDay": "66.19%",
+    "uptimeWeek": "51.75%",
     "uptimeMonth": "77.59%",
     "uptimeYear": "98.13%",
     "time": 452,
@@ -249,7 +249,8 @@
       "2026-07-13": 1112,
       "2026-07-14": 360,
       "2026-07-15": 550,
-      "2026-07-16": 489
+      "2026-07-16": 489,
+      "2026-07-17": 1
     }
   },
   {
