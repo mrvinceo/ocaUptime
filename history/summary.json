@@ -32,7 +32,7 @@
     "uptime": "99.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "91.62%",
+    "uptimeMonth": "92.34%",
     "uptimeYear": "97.70%",
     "time": 937,
     "timeDay": 865,
@@ -103,12 +103,12 @@
     "uptime": "99.49%",
     "uptimeDay": "89.65%",
     "uptimeWeek": "92.79%",
-    "uptimeMonth": "86.00%",
+    "uptimeMonth": "86.30%",
     "uptimeYear": "97.47%",
     "time": 1151,
     "timeDay": 1052,
     "timeWeek": 1086,
-    "timeMonth": 1023,
+    "timeMonth": 1025,
     "timeYear": 1074,
     "dailyMinutesDown": {
       "2026-04-18": 31,
@@ -228,15 +228,15 @@
     "url": "https://calendar.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/calendar.google.com.ico",
     "slug": "google-calendar",
-    "status": "up",
+    "status": "down",
     "uptime": "96.64%",
-    "uptimeDay": "39.01%",
-    "uptimeWeek": "59.70%",
-    "uptimeMonth": "71.51%",
+    "uptimeDay": "68.96%",
+    "uptimeWeek": "60.66%",
+    "uptimeMonth": "71.50%",
     "uptimeYear": "97.63%",
     "time": 454,
     "timeDay": 372,
-    "timeWeek": 453,
+    "timeWeek": 454,
     "timeMonth": 454,
     "timeYear": 454,
     "dailyMinutesDown": {
@@ -255,7 +255,7 @@
       "2026-07-18": 672,
       "2026-07-19": 466,
       "2026-07-20": 567,
-      "2026-07-21": 367
+      "2026-07-21": 368
     }
   },
   {
