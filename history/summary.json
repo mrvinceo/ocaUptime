@@ -13,7 +13,7 @@
     "time": 125,
     "timeDay": 84,
     "timeWeek": 83,
-    "timeMonth": 87,
+    "timeMonth": 86,
     "timeYear": 128,
     "dailyMinutesDown": {
       "2025-11-20": 16,
@@ -32,12 +32,12 @@
     "uptime": "99.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "92.99%",
+    "uptimeMonth": "93.00%",
     "uptimeYear": "97.70%",
     "time": 938,
     "timeDay": 878,
     "timeWeek": 1068,
-    "timeMonth": 1023,
+    "timeMonth": 1020,
     "timeYear": 934,
     "dailyMinutesDown": {
       "2026-01-30": 88,
@@ -86,7 +86,7 @@
     "time": 1052,
     "timeDay": 646,
     "timeWeek": 1083,
-    "timeMonth": 1312,
+    "timeMonth": 1333,
     "timeYear": 1080,
     "dailyMinutesDown": {
       "2025-12-05": 19,
@@ -99,17 +99,17 @@
     "url": "https://www.oca.ac.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.oca.ac.uk.ico",
     "slug": "oca-main-site",
-    "status": "down",
+    "status": "up",
     "uptime": "99.49%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "94.24%",
-    "uptimeMonth": "87.02%",
-    "uptimeYear": "97.48%",
-    "time": 1149,
-    "timeDay": 128,
-    "timeWeek": 1073,
-    "timeMonth": 1025,
-    "timeYear": 1074,
+    "uptimeDay": "95.24%",
+    "uptimeWeek": "93.57%",
+    "uptimeMonth": "86.86%",
+    "uptimeYear": "97.46%",
+    "time": 1150,
+    "timeDay": 1184,
+    "timeWeek": 1128,
+    "timeMonth": 1034,
+    "timeYear": 1075,
     "dailyMinutesDown": {
       "2026-04-19": 119,
       "2026-04-20": 80,
@@ -164,7 +164,7 @@
       "2026-07-18": 245,
       "2026-07-19": 127,
       "2026-07-21": 149,
-      "2026-07-23": 1
+      "2026-07-23": 69
     }
   },
   {
@@ -181,7 +181,7 @@
     "time": 1024,
     "timeDay": 1225,
     "timeWeek": 1444,
-    "timeMonth": 1429,
+    "timeMonth": 1418,
     "timeYear": 1101,
     "dailyMinutesDown": {
       "2025-09-27": 44
@@ -219,7 +219,7 @@
     "time": 563,
     "timeDay": 616,
     "timeWeek": 449,
-    "timeMonth": 521,
+    "timeMonth": 517,
     "timeYear": 382,
     "dailyMinutesDown": {}
   },
@@ -229,11 +229,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/calendar.google.com.ico",
     "slug": "google-calendar",
     "status": "down",
-    "uptime": "96.57%",
+    "uptime": "96.56%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "49.57%",
-    "uptimeMonth": "67.10%",
-    "uptimeYear": "97.26%",
+    "uptimeWeek": "48.89%",
+    "uptimeMonth": "66.95%",
+    "uptimeYear": "97.25%",
     "time": 454,
     "timeDay": 0,
     "timeWeek": 441,
@@ -256,7 +256,7 @@
       "2026-07-19": 466,
       "2026-07-20": 567,
       "2026-07-21": 853,
-      "2026-07-23": 2,
+      "2026-07-23": 71,
       "2026-07-22": 1440
     }
   },
@@ -274,7 +274,7 @@
     "time": 588,
     "timeDay": 409,
     "timeWeek": 705,
-    "timeMonth": 762,
+    "timeMonth": 768,
     "timeYear": 536,
     "dailyMinutesDown": {
       "2025-07-25": 20,
@@ -309,7 +309,7 @@
     "time": 168,
     "timeDay": 128,
     "timeWeek": 128,
-    "timeMonth": 157,
+    "timeMonth": 156,
     "timeYear": 173,
     "dailyMinutesDown": {
       "2025-12-05": 19
@@ -329,7 +329,7 @@
     "time": 594,
     "timeDay": 508,
     "timeWeek": 645,
-    "timeMonth": 603,
+    "timeMonth": 604,
     "timeYear": 601,
     "dailyMinutesDown": {
       "2025-10-14": 102,
@@ -351,7 +351,7 @@
     "time": 741,
     "timeDay": 184,
     "timeWeek": 557,
-    "timeMonth": 612,
+    "timeMonth": 613,
     "timeYear": 800,
     "dailyMinutesDown": {
       "2026-04-25": 668,
