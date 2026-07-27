@@ -87,7 +87,7 @@
     "timeDay": 494,
     "timeWeek": 1323,
     "timeMonth": 1215,
-    "timeYear": 1080,
+    "timeYear": 1081,
     "dailyMinutesDown": {
       "2025-12-05": 19,
       "2026-01-23": 391,
@@ -99,16 +99,16 @@
     "url": "https://www.oca.ac.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.oca.ac.uk.ico",
     "slug": "oca-main-site",
-    "status": "down",
+    "status": "up",
     "uptime": "99.49%",
-    "uptimeDay": "84.60%",
-    "uptimeWeek": "92.07%",
-    "uptimeMonth": "87.60%",
-    "uptimeYear": "97.43%",
+    "uptimeDay": "80.28%",
+    "uptimeWeek": "91.46%",
+    "uptimeMonth": "87.54%",
+    "uptimeYear": "97.42%",
     "time": 1146,
-    "timeDay": 802,
-    "timeWeek": 1059,
-    "timeMonth": 1048,
+    "timeDay": 894,
+    "timeWeek": 1073,
+    "timeMonth": 1046,
     "timeYear": 1074,
     "dailyMinutesDown": {
       "2026-04-26": 78,
@@ -162,7 +162,7 @@
       "2026-07-23": 69,
       "2026-07-24": 301,
       "2026-07-26": 59,
-      "2026-07-27": 222
+      "2026-07-27": 284
     }
   },
   {
@@ -180,7 +180,7 @@
     "timeDay": 1340,
     "timeWeek": 1355,
     "timeMonth": 1426,
-    "timeYear": 1110,
+    "timeYear": 1111,
     "dailyMinutesDown": {
       "2025-09-27": 44
     }
@@ -229,12 +229,12 @@
     "status": "down",
     "uptime": "96.30%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "6.32%",
-    "uptimeMonth": "50.86%",
-    "uptimeYear": "95.90%",
+    "uptimeWeek": "6.03%",
+    "uptimeMonth": "50.72%",
+    "uptimeYear": "95.89%",
     "time": 454,
     "timeDay": 0,
-    "timeWeek": 344,
+    "timeWeek": 239,
     "timeMonth": 454,
     "timeYear": 454,
     "dailyMinutesDown": {
@@ -254,7 +254,7 @@
       "2026-07-19": 466,
       "2026-07-20": 567,
       "2026-07-21": 853,
-      "2026-07-27": 1356,
+      "2026-07-27": 1419,
       "2026-07-26": 1440,
       "2026-07-25": 1440,
       "2026-07-24": 1440,
@@ -353,7 +353,7 @@
     "timeDay": 41,
     "timeWeek": 185,
     "timeMonth": 546,
-    "timeYear": 796,
+    "timeYear": 797,
     "dailyMinutesDown": {
       "2026-04-25": 668,
       "2026-04-26": 125
