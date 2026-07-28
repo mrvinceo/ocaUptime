@@ -32,13 +32,13 @@
     "uptime": "99.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.62%",
+    "uptimeMonth": "96.66%",
     "uptimeYear": "97.70%",
     "time": 941,
     "timeDay": 1015,
     "timeWeek": 979,
     "timeMonth": 1012,
-    "timeYear": 926,
+    "timeYear": 927,
     "dailyMinutesDown": {
       "2026-01-30": 88,
       "2026-02-04": 118,
@@ -77,22 +77,22 @@
     "url": "https://spaces.oca.ac.uk",
     "icon": "https://icons.duckduckgo.com/ip3/spaces.oca.ac.uk.ico",
     "slug": "oca-spaces-blogs",
-    "status": "down",
+    "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.91%",
-    "time": 1050,
-    "timeDay": 445,
-    "timeWeek": 1208,
-    "timeMonth": 1185,
-    "timeYear": 1077,
+    "uptimeDay": "96.13%",
+    "uptimeWeek": "99.45%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.90%",
+    "time": 1051,
+    "timeDay": 632,
+    "timeWeek": 1185,
+    "timeMonth": 1180,
+    "timeYear": 1078,
     "dailyMinutesDown": {
       "2025-12-05": 19,
       "2026-01-23": 391,
       "2026-05-02": 45,
-      "2026-07-28": 1
+      "2026-07-28": 56
     }
   },
   {
@@ -100,16 +100,16 @@
     "url": "https://www.oca.ac.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.oca.ac.uk.ico",
     "slug": "oca-main-site",
-    "status": "down",
-    "uptime": "99.49%",
-    "uptimeDay": "92.25%",
-    "uptimeWeek": "92.37%",
-    "uptimeMonth": "88.89%",
-    "uptimeYear": "97.43%",
+    "status": "up",
+    "uptime": "99.48%",
+    "uptimeDay": "92.21%",
+    "uptimeWeek": "91.82%",
+    "uptimeMonth": "88.81%",
+    "uptimeYear": "97.42%",
     "time": 1144,
-    "timeDay": 858,
-    "timeWeek": 1022,
-    "timeMonth": 1042,
+    "timeDay": 946,
+    "timeWeek": 1053,
+    "timeMonth": 1056,
     "timeYear": 1073,
     "dailyMinutesDown": {
       "2026-04-28": 151,
@@ -163,7 +163,7 @@
       "2026-07-24": 301,
       "2026-07-26": 59,
       "2026-07-27": 284,
-      "2026-07-28": 58
+      "2026-07-28": 113
     }
   },
   {
@@ -181,7 +181,7 @@
     "timeDay": 1685,
     "timeWeek": 1458,
     "timeMonth": 1446,
-    "timeYear": 1112,
+    "timeYear": 1114,
     "dailyMinutesDown": {
       "2025-09-27": 44
     }
@@ -231,8 +231,8 @@
     "uptime": "96.25%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "47.56%",
-    "uptimeYear": "95.63%",
+    "uptimeMonth": "47.43%",
+    "uptimeYear": "95.62%",
     "time": 454,
     "timeDay": 0,
     "timeWeek": 0,
@@ -255,7 +255,7 @@
       "2026-07-19": 466,
       "2026-07-20": 567,
       "2026-07-21": 853,
-      "2026-07-28": 1364,
+      "2026-07-28": 1420,
       "2026-07-27": 1440,
       "2026-07-26": 1440,
       "2026-07-25": 1440,
@@ -333,7 +333,7 @@
     "timeDay": 574,
     "timeWeek": 565,
     "timeMonth": 600,
-    "timeYear": 602,
+    "timeYear": 603,
     "dailyMinutesDown": {
       "2025-10-14": 102,
       "2026-01-13": 22,
@@ -355,7 +355,7 @@
     "timeDay": 249,
     "timeWeek": 151,
     "timeMonth": 542,
-    "timeYear": 795,
+    "timeYear": 796,
     "dailyMinutesDown": {
       "2026-04-25": 668,
       "2026-04-26": 125
