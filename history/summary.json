@@ -37,7 +37,7 @@
     "time": 948,
     "timeDay": 801,
     "timeWeek": 1096,
-    "timeMonth": 1086,
+    "timeMonth": 1095,
     "timeYear": 933,
     "dailyMinutesDown": {
       "2026-01-30": 88,
@@ -86,7 +86,7 @@
     "time": 1075,
     "timeDay": 3316,
     "timeWeek": 1933,
-    "timeMonth": 1329,
+    "timeMonth": 1271,
     "timeYear": 1108,
     "dailyMinutesDown": {
       "2025-12-05": 19,
@@ -104,12 +104,12 @@
     "uptime": "99.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "94.11%",
+    "uptimeMonth": "94.13%",
     "uptimeYear": "97.42%",
     "time": 1145,
     "timeDay": 1786,
     "timeWeek": 1619,
-    "timeMonth": 1155,
+    "timeMonth": 1153,
     "timeYear": 1073,
     "dailyMinutesDown": {
       "2026-04-28": 151,
@@ -180,7 +180,7 @@
     "time": 1044,
     "timeDay": 943,
     "timeWeek": 1343,
-    "timeMonth": 1417,
+    "timeMonth": 1424,
     "timeYear": 1126,
     "dailyMinutesDown": {
       "2025-09-27": 44
@@ -218,7 +218,7 @@
     "time": 447,
     "timeDay": 227,
     "timeWeek": 508,
-    "timeMonth": 497,
+    "timeMonth": 504,
     "timeYear": 392,
     "dailyMinutesDown": {}
   },
@@ -229,9 +229,9 @@
     "slug": "google-calendar",
     "status": "up",
     "uptime": "95.77%",
-    "uptimeDay": "54.62%",
-    "uptimeWeek": "24.67%",
-    "uptimeMonth": "24.24%",
+    "uptimeDay": "62.47%",
+    "uptimeWeek": "25.79%",
+    "uptimeMonth": "24.50%",
     "uptimeYear": "93.07%",
     "time": 438,
     "timeDay": 390,
@@ -290,7 +290,7 @@
     "time": 535,
     "timeDay": 517,
     "timeWeek": 844,
-    "timeMonth": 691,
+    "timeMonth": 697,
     "timeYear": 525,
     "dailyMinutesDown": {
       "2025-11-07": 16,
@@ -324,7 +324,7 @@
     "time": 170,
     "timeDay": 59,
     "timeWeek": 244,
-    "timeMonth": 163,
+    "timeMonth": 166,
     "timeYear": 174,
     "dailyMinutesDown": {
       "2025-12-05": 19
@@ -344,7 +344,7 @@
     "time": 594,
     "timeDay": 434,
     "timeWeek": 561,
-    "timeMonth": 587,
+    "timeMonth": 590,
     "timeYear": 600,
     "dailyMinutesDown": {
       "2025-10-14": 102,
@@ -366,7 +366,7 @@
     "time": 727,
     "timeDay": 170,
     "timeWeek": 172,
-    "timeMonth": 374,
+    "timeMonth": 371,
     "timeYear": 770,
     "dailyMinutesDown": {
       "2026-04-25": 668,
