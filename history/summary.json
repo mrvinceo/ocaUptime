@@ -105,12 +105,12 @@
     "uptime": "99.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "94.97%",
+    "uptimeMonth": "95.18%",
     "uptimeYear": "97.42%",
     "time": 1144,
     "timeDay": 1500,
     "timeWeek": 1802,
-    "timeMonth": 1167,
+    "timeMonth": 1174,
     "timeYear": 1073,
     "dailyMinutesDown": {
       "2026-04-28": 151,
@@ -229,16 +229,16 @@
     "url": "https://calendar.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/calendar.google.com.ico",
     "slug": "google-calendar",
-    "status": "up",
+    "status": "down",
     "uptime": "95.73%",
-    "uptimeDay": "66.67%",
-    "uptimeWeek": "43.33%",
-    "uptimeMonth": "27.08%",
+    "uptimeDay": "87.70%",
+    "uptimeWeek": "50.09%",
+    "uptimeMonth": "28.03%",
     "uptimeYear": "92.81%",
     "time": 446,
-    "timeDay": 517,
+    "timeDay": 478,
     "timeWeek": 435,
-    "timeMonth": 446,
+    "timeMonth": 443,
     "timeYear": 446,
     "dailyMinutesDown": {
       "2026-07-09": 1367,
@@ -277,7 +277,7 @@
       "2026-08-08": 654,
       "2026-08-09": 547,
       "2026-08-10": 768,
-      "2026-08-11": 48
+      "2026-08-11": 49
     }
   },
   {
