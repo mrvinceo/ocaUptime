@@ -78,23 +78,23 @@
     "url": "https://spaces.oca.ac.uk",
     "icon": "https://icons.duckduckgo.com/ip3/spaces.oca.ac.uk.ico",
     "slug": "oca-spaces-blogs",
-    "status": "down",
+    "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.90%",
-    "time": 1059,
-    "timeDay": 776,
-    "timeWeek": 572,
-    "timeMonth": 1154,
-    "timeYear": 1107,
+    "uptimeDay": "95.45%",
+    "uptimeWeek": "99.35%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.89%",
+    "time": 1065,
+    "timeDay": 2118,
+    "timeWeek": 933,
+    "timeMonth": 1221,
+    "timeYear": 1113,
     "dailyMinutesDown": {
       "2025-12-05": 19,
       "2026-01-23": 391,
       "2026-05-02": 45,
       "2026-07-28": 56,
-      "2026-08-17": 1
+      "2026-08-17": 66
     }
   },
   {
@@ -112,7 +112,7 @@
     "timeDay": 1723,
     "timeWeek": 1401,
     "timeMonth": 1199,
-    "timeYear": 1071,
+    "timeYear": 1072,
     "dailyMinutesDown": {
       "2026-04-28": 151,
       "2026-05-01": 59,
